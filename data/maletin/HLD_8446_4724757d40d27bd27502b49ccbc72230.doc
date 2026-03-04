@@ -1,0 +1,517 @@
+			 <html xmlns:v="urn:schemas-microsoft-com:vml"
+			xmlns:o="urn:schemas-microsoft-com:office:office"
+			xmlns:w="urn:schemas-microsoft-com:office:word"
+			xmlns="http://www.w3.org/TR/REC-html40">
+			
+			<head>
+			<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+			<meta name=ProgId content=Word.Document>
+			<meta name=Generator content="Microsoft Word 9">
+			<meta name=Originator content="Microsoft Word 9">
+			<!--[if !mso]>
+			<style>
+			v\:* {behavior:url(#default#VML);}
+			o\:* {behavior:url(#default#VML);}
+			w\:* {behavior:url(#default#VML);}
+			.shape {behavior:url(#default#VML);}
+			</style>
+			<![endif]-->
+			<title></title>
+			<!--[if gte mso 9]><xml>
+			 <w:WordDocument>
+			  <w:View>Print</w:View>
+			  <w:DoNotHyphenateCaps/>
+			  <w:PunctuationKerning/>
+			  <w:DrawingGridHorizontalSpacing>9.35 pt</w:DrawingGridHorizontalSpacing>
+			  <w:DrawingGridVerticalSpacing>9.35 pt</w:DrawingGridVerticalSpacing>
+			 </w:WordDocument>
+			</xml><![endif]-->
+			<style>
+			<!--
+			
+           v\:* {behavior:url(#default#VML);}
+           o\:* {behavior:url(#default#VML);}
+           w\:* {behavior:url(#default#VML);}
+           .shape {behavior:url(#default#VML);}
+           /* Font Definitions */
+           @font-face
+				{font-family:Verdana;
+				panose-1:2 11 6 4 3 5 4 4 2 4;
+				mso-font-charset:0;
+				mso-generic-font-family:swiss;
+				mso-font-pitch:variable;
+				mso-font-signature:536871559 0 0 0 415 0;}
+			 /* Style Definitions */
+			p.MsoNormal, li.MsoNormal, div.MsoNormal
+				{mso-style-parent:"";
+				margin:0in;
+				margin-bottom:.0001pt;
+				mso-pagination:widow-orphan;
+				font-size:7.5pt;
+			        mso-bidi-font-size:8.0pt;
+				font-family:"Verdana";
+				mso-fareast-font-family:"Verdana";}
+			p.small
+				{mso-style-parent:"";
+				margin:0in;
+				margin-bottom:.0001pt;
+				mso-pagination:widow-orphan;
+				font-size:1.0pt;
+			        mso-bidi-font-size:1.0pt;
+				font-family:"Verdana";
+				mso-fareast-font-family:"Verdana";
+			}
+			@page portada{
+                size:8.5in 11.0in;
+                margin:1.0in 1.25in 1.0in 1.25in;
+                mso-header-margin:.5in;
+                mso-footer-margin:.5in;
+                mso-paper-source:0;
+                mso-footer: MyFooter1;
+                mso-header: MyHeader1;
+            }
+            div.portada{
+                page: portada;
+            }
+            @page tengase_presente{
+                size:8.5in 11.0in;
+                margin:1.0in 1.25in 1.0in 1.25in;
+                mso-header-margin:.5in;
+                mso-footer-margin:.5in;
+                mso-paper-source:0;
+                mso-footer: MyFooter2;
+                mso-header: MyHeader2;
+            }
+            div.tengase_presente{
+                page: tengase_presente;
+            }
+            .centro{
+                margin:0px auto;
+                text-align:center;
+            }
+            table.tableheader{
+                margin:0in 0in 0in 900in;
+                width:1px;
+                height:1px;
+                overflow:hidden;
+            }
+            p{
+                text-align: justify;
+            }
+            h2{
+                font-size: 14px;
+                color: #676c6b;
+            }
+            .titulo {
+                font-size: 16px;
+                font-weight: bold;
+                margin-bottom: 0.5em;
+                color: #8C3D14;
+            }
+            .textoportada{
+                font-weight: bold;
+                font-size: 20px;
+                color: #000;
+            }
+            body
+            {
+                width:100%;
+                font-family: Verdana;
+                font-size:11px;
+                margin:0;
+                padding:0;
+            }
+			@page div_1pos1{
+                size:8.5in 11.0in;
+                margin:1.0in 1.25in 1.0in 1.25in;
+                mso-header-margin:.5in;
+                mso-footer-margin:.5in;
+                mso-paper-source:0;
+                mso-footer: _blank;
+                mso-header: MyHeaderdiv_1pos1;
+            }
+            div.div_1pos1{
+                page: div_1pos1;
+            }
+            @page div_1pos2{
+                size:8.5in 11.0in;
+                margin:1.0in 1.25in 1.0in 1.25in;
+                mso-header-margin:.5in;
+                mso-footer-margin:.5in;
+                mso-paper-source:0;
+                mso-footer: _blank;
+                mso-header: MyHeaderdiv_1pos2;
+            }
+            div.div_1pos2{
+                page: div_1pos2;
+            }
+            @page div_1pos3{
+                size:8.5in 11.0in;
+                margin:1.0in 1.25in 1.0in 1.25in;
+                mso-header-margin:.5in;
+                mso-footer-margin:.5in;
+                mso-paper-source:0;
+                mso-footer: _blank;
+                mso-header: MyHeaderdiv_1pos3;
+            }
+            div.div_1pos3{
+                page: div_1pos3;
+            }
+            @page div_1pos4{
+                size:8.5in 11.0in;
+                margin:1.0in 1.25in 1.0in 1.25in;
+                mso-header-margin:.5in;
+                mso-footer-margin:.5in;
+                mso-paper-source:0;
+                mso-footer: _blank;
+                mso-header: MyHeaderdiv_1pos4;
+            }
+            div.div_1pos4{
+                page: div_1pos4;
+            }
+            @page div_1pos5{
+                size:8.5in 11.0in;
+                margin:1.0in 1.25in 1.0in 1.25in;
+                mso-header-margin:.5in;
+                mso-footer-margin:.5in;
+                mso-paper-source:0;
+                mso-footer: _blank;
+                mso-header: MyHeaderdiv_1pos5;
+            }
+            div.div_1pos5{
+                page: div_1pos5;
+            }
+            @page div_2pos1{
+                size:8.5in 11.0in;
+                margin:1.0in 1.25in 1.0in 1.25in;
+                mso-header-margin:.5in;
+                mso-footer-margin:.5in;
+                mso-paper-source:0;
+                mso-footer: _blank;
+                mso-header: MyHeaderdiv_2pos1;
+            }
+            div.div_2pos1{
+                page: div_2pos1;
+            }
+            @page div_2pos2{
+                size:8.5in 11.0in;
+                margin:1.0in 1.25in 1.0in 1.25in;
+                mso-header-margin:.5in;
+                mso-footer-margin:.5in;
+                mso-paper-source:0;
+                mso-footer: _blank;
+                mso-header: MyHeaderdiv_2pos2;
+            }
+            div.div_2pos2{
+                page: div_2pos2;
+            }
+            @page div_2pos3{
+                size:8.5in 11.0in;
+                margin:1.0in 1.25in 1.0in 1.25in;
+                mso-header-margin:.5in;
+                mso-footer-margin:.5in;
+                mso-paper-source:0;
+                mso-footer: _blank;
+                mso-header: MyHeaderdiv_2pos3;
+            }
+            div.div_2pos3{
+                page: div_2pos3;
+            }
+            @page div_2pos4{
+                size:8.5in 11.0in;
+                margin:1.0in 1.25in 1.0in 1.25in;
+                mso-header-margin:.5in;
+                mso-footer-margin:.5in;
+                mso-paper-source:0;
+                mso-footer: _blank;
+                mso-header: MyHeaderdiv_2pos4;
+            }
+            div.div_2pos4{
+                page: div_2pos4;
+            }
+            @page div_2pos5{
+                size:8.5in 11.0in;
+                margin:1.0in 1.25in 1.0in 1.25in;
+                mso-header-margin:.5in;
+                mso-footer-margin:.5in;
+                mso-paper-source:0;
+                mso-footer: _blank;
+                mso-header: MyHeaderdiv_2pos5;
+            }
+            div.div_2pos5{
+                page: div_2pos5;
+            }
+            @page div_2pos6{
+                size:8.5in 11.0in;
+                margin:1.0in 1.25in 1.0in 1.25in;
+                mso-header-margin:.5in;
+                mso-footer-margin:.5in;
+                mso-paper-source:0;
+                mso-footer: _blank;
+                mso-header: MyHeaderdiv_2pos6;
+            }
+            div.div_2pos6{
+                page: div_2pos6;
+            }
+            @page div_2pos7{
+                size:8.5in 11.0in;
+                margin:1.0in 1.25in 1.0in 1.25in;
+                mso-header-margin:.5in;
+                mso-footer-margin:.5in;
+                mso-paper-source:0;
+                mso-footer: _blank;
+                mso-header: MyHeaderdiv_2pos7;
+            }
+            div.div_2pos7{
+                page: div_2pos7;
+            }
+            @page div_2pos8{
+                size:8.5in 11.0in;
+                margin:1.0in 1.25in 1.0in 1.25in;
+                mso-header-margin:.5in;
+                mso-footer-margin:.5in;
+                mso-paper-source:0;
+                mso-footer: _blank;
+                mso-header: MyHeaderdiv_2pos8;
+            }
+            div.div_2pos8{
+                page: div_2pos8;
+            }
+            @page div_2pos9{
+                size:8.5in 11.0in;
+                margin:1.0in 1.25in 1.0in 1.25in;
+                mso-header-margin:.5in;
+                mso-footer-margin:.5in;
+                mso-paper-source:0;
+                mso-footer: _blank;
+                mso-header: MyHeaderdiv_2pos9;
+            }
+            div.div_2pos9{
+                page: div_2pos9;
+            }
+            @page div_2pos10{
+                size:8.5in 11.0in;
+                margin:1.0in 1.25in 1.0in 1.25in;
+                mso-header-margin:.5in;
+                mso-footer-margin:.5in;
+                mso-paper-source:0;
+                mso-footer: _blank;
+                mso-header: MyHeaderdiv_2pos10;
+            }
+            div.div_2pos10{
+                page: div_2pos10;
+            }
+            @page div_2pos11{
+                size:8.5in 11.0in;
+                margin:1.0in 1.25in 1.0in 1.25in;
+                mso-header-margin:.5in;
+                mso-footer-margin:.5in;
+                mso-paper-source:0;
+                mso-footer: _blank;
+                mso-header: MyHeaderdiv_2pos11;
+            }
+            div.div_2pos11{
+                page: div_2pos11;
+            }
+            @page div_3pos1{
+                size:8.5in 11.0in;
+                margin:1.0in 1.25in 1.0in 1.25in;
+                mso-header-margin:.5in;
+                mso-footer-margin:.5in;
+                mso-paper-source:0;
+                mso-footer: _blank;
+                mso-header: MyHeaderdiv_3pos1;
+            }
+            div.div_3pos1{
+                page: div_3pos1;
+            }
+            @page div_3pos2{
+                size:8.5in 11.0in;
+                margin:1.0in 1.25in 1.0in 1.25in;
+                mso-header-margin:.5in;
+                mso-footer-margin:.5in;
+                mso-paper-source:0;
+                mso-footer: _blank;
+                mso-header: MyHeaderdiv_3pos2;
+            }
+            div.div_3pos2{
+                page: div_3pos2;
+            }
+            @page div_4pos1{
+                size:8.5in 11.0in;
+                margin:1.0in 1.25in 1.0in 1.25in;
+                mso-header-margin:.5in;
+                mso-footer-margin:.5in;
+                mso-paper-source:0;
+                mso-footer: _blank;
+                mso-header: MyHeaderdiv_4pos1;
+            }
+            div.div_4pos1{
+                page: div_4pos1;
+            }
+            @page div_4pos2{
+                size:8.5in 11.0in;
+                margin:1.0in 1.25in 1.0in 1.25in;
+                mso-header-margin:.5in;
+                mso-footer-margin:.5in;
+                mso-paper-source:0;
+                mso-footer: _blank;
+                mso-header: MyHeaderdiv_4pos2;
+            }
+            div.div_4pos2{
+                page: div_4pos2;
+            }
+            @page div_4pos3{
+                size:8.5in 11.0in;
+                margin:1.0in 1.25in 1.0in 1.25in;
+                mso-header-margin:.5in;
+                mso-footer-margin:.5in;
+                mso-paper-source:0;
+                mso-footer: _blank;
+                mso-header: MyHeaderdiv_4pos3;
+            }
+            div.div_4pos3{
+                page: div_4pos3;
+            }
+            @page div_5pos1{
+                size:8.5in 11.0in;
+                margin:1.0in 1.25in 1.0in 1.25in;
+                mso-header-margin:.5in;
+                mso-footer-margin:.5in;
+                mso-paper-source:0;
+                mso-footer: _blank;
+                mso-header: MyHeaderdiv_5pos1;
+            }
+            div.div_5pos1{
+                page: div_5pos1;
+            }
+            @page div_6pos1{
+                size:8.5in 11.0in;
+                margin:1.0in 1.25in 1.0in 1.25in;
+                mso-header-margin:.5in;
+                mso-footer-margin:.5in;
+                mso-paper-source:0;
+                mso-footer: _blank;
+                mso-header: MyHeaderdiv_6pos1;
+            }
+            div.div_6pos1{
+                page: div_6pos1;
+            }
+            
+			-->
+			</style>
+			<!--[if gte mso 9]><xml>
+			 <o:shapedefaults v:ext="edit" spidmax="1032">
+			  <o:colormenu v:ext="edit" strokecolor="none"/>
+			 </o:shapedefaults></xml><![endif]--><!--[if gte mso 9]><xml>
+			 <o:shapelayout v:ext="edit">
+			  <o:idmap v:ext="edit" data="1"/>
+			 </o:shapelayout></xml><![endif]-->
+			 
+			</head>
+			<body>
+
+<div class="portada">
+    <div class="centro">
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <img alt="Ley Chile - Biblioteca del Congreso Nacional" src="/historiadelaley/fileadmin/template/img/logo/logo-dossier.png" />
+        <br>
+        <br>
+        <br>
+        <br>
+        <span class="textoportada">
+            
+                Historia  de la Ley N° 21.788
+            
+        </span>
+        <br>
+        <br>
+        <br>
+        <br>
+        <div style="width: 80%;margin: 0px auto;">
+            <p style="text-align: center; font-size: 16px">Dicta normas sobre protección y fomento de la artesanía</p>
+        </div>
+    </div>
+</div>
+<br clear=all style=page-break-before:always;mso-break-type:section-break>
+<div class="tengase_presente">
+    <span class="titulo">
+        TÉNGASE PRESENTE
+    </span>
+    <p class="texto">
+        Esta Historia de Ley ha sido construida por la Biblioteca del Congreso Nacional a partir de la información disponible en sus archivos.
+    </p>
+    <p class="texto">
+        Se han incluido los distintos documentos de la tramitación legislativa, ordenados conforme su ocurrencia en cada uno de los trámites del proceso de formación de la ley.
+    </p>
+    <p class="texto">
+        Se han omitido documentos de mera o simple tramitación, que no proporcionan información relevante para efectos de la Historia de Ley.
+    </p>
+    <p class="texto">
+        Para efectos de facilitar la revisión de la documentación de este archivo, se incorpora un índice.
+    </p>
+    <p class="texto">
+        Al final del archivo se incorpora el texto de la norma aprobado conforme a la tramitación incluida en esta historia de ley.
+    </p>
+    <div style="mso-element:header" id="MyHeader2">
+    </div>
+    <div style="mso-element:header" id="MyFooter2">
+    </div>
+</div>
+
+   
+        <br clear=all style=page-break-before:always;mso-break-type:section-break>
+        <div class="div_1pos4">
+            
+                    <h1 class="titulo">1. Primer Trámite Constitucional: Cámara de Diputados</h1>
+                
+            <div class="item" fecha="2024-04-03" parteDocumento="http://datos.bcn.cl/recurso/cl/documento/704544/seccion/akn704544-po1-ds61" refersTo="http://datos.bcn.cl/ontologies/bcn-bills#DiscusionGeneral" tipoDocumento="http://datos.bcn.cl/ontologies/bcn-resources#DiarioDeSesion" tramitacion="http://datos.bcn.cl/recurso/cl/proyecto-de-ley/16371-24/tramitacion/27" uriDocumento="http://datos.bcn.cl/recurso/cl/documento/704544"><h2 id="h2_1_4" numero="1.4. ">1.4. Discusión en Sala</h2><p class="sub-headding">Fecha 03 de abril, 2024. Diario de Sesión en Sesión 13. Legislatura 372. Discusión General. Se aprueba en general y particular.</p><span><p>          ESTABLECIMIENTO DE NORMAS SOBRE PROTECCIÓN Y FOMENTO DE  ARTESANÍA (PRIMER TRÁMITE CONSTITUCIONAL. BOLETÍN N° 16371-24)</p><p/><p>La señorita  CICARDINI ,   doña Daniella  (Vicepresidenta).-</p><p>Corresponde tratar el proyecto de ley, en primer trámite constitucional, iniciado en mensaje, que dicta normas sobre protección y fomento de la artesanía.  </p><p>Para la discusión de este proyecto se otorgarán tres minutos a cada diputada y diputado que se inscriba para hacer uso de la palabra. </p><p>Diputados informantes de las comisiones de Cultura, Artes y Comunicaciones, y de Hacienda son los señores  Alejandro Bernales  y   Miguel Mellado , respectivamente.  </p><p>Antecedentes: </p><p>-Mensaje, sesión 93ª de la legislatura 371ª, en martes 17 de octubre de 2023.  Documentos de la Cuenta N° 1. </p><p>-Informe de la Comisión de Cultura, Artes y Comunicaciones, sesión 10ª de la  presente legislatura, en lunes 1 de abril de 2024. Documentos de la Cuenta N° 16. </p><p>-Informe de la Comisión de Hacienda, sesión 12ª de la presente legislatura, en martes 2 de abril de 2024. Documentos de la Cuenta N° 2. </p><p>La señorita  CICARDINI ,   doña Daniella  (Vicepresidenta).-</p><p>Tiene la palabra el diputado informante de la Comisión de Cultura, Artes y Comunicaciones.  </p><p/><p>El señor  <span class="person" refersTo="http://datos.bcn.cl/recurso/persona/4552">BERNALES</span> (de pie).-</p><p/><p> Señorita Presidenta, honorable Cámara, en representación de la Comisión de Cultura, Artes y Comunicaciones, paso a informar sobre el proyecto de ley, en primer trámite constitucional y primero reglamentario, que dicta normas sobre protección y fomento de la artesanía. </p><p>Esta iniciativa tiene su origen en un mensaje de su excelencia el Presidente de la República, cuya idea matriz se orienta a otorgar un estatuto de protección y fomento de la artesanía con el objeto de apoyar, proteger, salvaguardar y fomentar su desarrollo, así como dotarla de un marco normativo apropiado, para lo cual se abordan los siguientes tres principales ejes. </p><p>El primero está relacionado con el reconocimiento de la práctica artesanal y de sus  creadores (as) a través de definiciones y reconocimientos. </p><p>El segundo tiene que ver con establecer nuevos mecanismos de participación institucionalizada y descentralizada, para lo cual se crean mesas regionales y un Consejo Nacional de Artesanía. </p><p>El tercer eje está dado por el apoyo estatal para la artesanía y sus artesanos, a través de la política, un plan nacional y un comité interinstitucional. </p><p>La iniciativa fue aprobada en general por unanimidad, con los votos de las diputadas   Nathalie Castillo ,   Viviana Delgado ,   Marta González ,   Catalina Pérez  y   Daniela Serrano , y de los diputados   Eduardo Durán ,   Mauricio Ojeda ,   Sebastián Videla  y de quien habla,   Alejandro Bernales .  </p><p>Fundamentos </p><p>El mensaje señala que este proyecto tiene por objetivo apoyar, proteger, salvaguardar y fomentar el desarrollo de la artesanía, así como dotarla de un marco normativo apropiado, en tanto se trata de una práctica artística cultural de gran relevancia en distintos ámbitos del quehacer nacional, tales como los culturales, sociales, económicos y turísticos, haciéndose presente que se trata de una disciplina que expresa un sentido de pertenencia e identidad  multicultural. </p><p>Asimismo, se reconoce a las y los artesanos como creadores y creadoras, y cultores  fundamentales para el desarrollo del acervo cultural del país. </p><p>Se establece el deber del Estado de adoptar las medidas que faciliten su labor y sostenibilidad, y se persigue el fomento del área, reconociéndola, por un lado, como disciplina artística cultural, y, por otro, resaltando su propuesta en valor y la de sus cultores, asimismo el apoyo de la creación, promoción, producción, difusión, exhibición, circulación y comercialización de la artesanía, como también la asociatividad, formación, profesionalización, investigación y transmisión del conocimiento del sector, propiciando la protección de la labor artesanal artística y de sus materias primas. </p><p>Discusión y votación </p><p>La comisión, tanto en la discusión general como en la particular, analizó y aprobó  principalmente las siguientes materias: </p><p>El texto reconoce a la artesanía como una disciplina artístico-cultural y la pone en valor junto con sus cultores y cultoras. A su vez, fomenta la creación, promoción, producción, difusión, exhibición, circulación y comercialización de la artesanía, e, igualmente, promueve la asociatividad, formación, profesionalización, investigación y transmisión del conocimiento del sector. </p><p>Agrega que es deber del Estado proteger y desarrollar la artesanía por su relevancia en distintos ámbitos, como culturales, sociales, económicos y turísticos, y distingue a las artesanas y artesanos como creadores y cultores fundamentales para el desarrollo del acervo cultural. </p><p>También, establece la Política Nacional de Artesanía como un instrumento de planificación que señala los objetivos para lograr el desarrollo de la actividad artesanal y de las artesanas y artesanos por un periodo de cinco años. Será elaborada de manera conjunta por el Ministerio de las Culturas y el Consejo Nacional de Artesanía, y se prescribe un plazo de seis meses para su dictación. </p><p>El Plan Nacional de Artesanía, en tanto, se aprobará por decreto supremo del Ministerio de las Culturas, a partir de las propuestas entregadas por el Comité Interinstitucional, y  se dictará cada cuatro años. El plan operativizará las medidas de la política del sector y  considerará convocatorias públicas, premios y actividades de formación. </p><p>Luego, se prescribe la creación del Consejo Nacional de Artesanía, presidido por el  subsecretario o subsecretaria de las Culturas y las Artes, e integrado, además, por un  representante del Servicio Nacional del Patrimonio Cultural, dos académicos de reconocida trayectoria en el ámbito de la artesanía y dieciséis representantes de todas las regiones. </p><p>Este organismo asesorará al Ministerio de las Culturas en la formulación de la  Política Nacional de Artesanía, elaborándola de manera conjunta; le propondrá acciones  que contribuyan al desarrollo de diversas manifestaciones de la artesanía, las que, de no ser acogidas, deberán ser objeto de una resolución fundada del ministerio. </p><p>Paralelamente, se crea el Registro Nacional de Artesanía, como único compendio a nivel nacional con carácter oficial, público y gratuito, administrado por el Mincap. </p><p>Asimismo, se crea el Comité Interinstitucional de Artesanía, conformado por representantes de diversos ministerios y organismos públicos, cuya función será coordinar el trabajo intersectorial de las entidades participantes del comité en relación con temáticas relevantes para el sector, colaborar en el diseño del Plan Nacional de Artesanía, a partir de los  lineamientos de la Política Nacional de Artesanía, y promover el cumplimiento de las  medidas del Plan Nacional de Artesanía, realizar su seguimiento y evaluación. </p><p>Sobre las particularidades de cada territorio, se crean mesas regionales de artesanía,  presididas por los seremis respectivos, como entes de participación y articulación  territorial. Ellas propiciarán el enlace con los gobiernos regionales y las entidades y  autoridades culturales y municipales. Su objetivo será aprobar el Plan de Trabajo Regional y promover instrumentos locales en beneficio del sector, la inscripción de las artesanas o  artesanos en este registro y la formación y educación artística. </p><p>En materia de reconocimientos, se elevan a rango legal premios como el “Sello de Excelencia a la Artesanía” y “Maestro (a) Artesano (a) Nacional”; se crea el premio “Maestro (a) Artesano (a) Regional”, y se fija el 7 de noviembre de cada año como el  Día Nacional de la Artesanía. </p><p>También, se regula el uso de los espacios públicos, facultando a las municipalidades  para dictar ordenanzas para regular las condiciones, requerimientos y funcionamiento de exhibiciones y realización de actividades y oficios artísticos artesanales de manera  permanente o eventual. </p><p>Igualmente, se señalan los puntos que debe incluir la ordenanza, por ejemplo, si se trata de permisos gratuitos o de pago. También, identificar los bienes nacionales de uso público, priorizando lugares, espacios y horarios donde se concentre el mayor número de personas. Al respecto, las municipalidades no podrán restringir o condicionar la emisión de permisos a base de discriminaciones, exclusiones, preferencias o valoraciones artísticas no justificadas de las obras. </p><p>Por los argumentos y las razones señalados, la comisión recomienda a esta honorable Sala aprobar el texto del proyecto de ley propuesto en este informe. </p><p>Es todo cuanto puedo informar. </p><p>He dicho. </p><p>La señorita  CICARDINI ,   doña Daniella  (Vicepresidenta).-</p><p>Damos la bienvenida a la ministra de las Culturas, las Artes y Patrimonio,   Carolina Arredondo Marzán . Tiene la palabra el diputado informante de la Comisión de Hacienda.  </p><p/><p>El señor MELLADO, don Miguel (de pie).-</p><p/><p> Señorita Presidenta, estimada ministra, honorable Sala, en nombre de la Comisión de Hacienda, paso a informar, en lo relativo a su incidencia presupuestaria, sobre el proyecto de ley, iniciado en mensaje de su excelencia el Presidente de la República, sobre protección y fomento de la artesanía. </p><p>En representación del Ejecutivo, concurrió a presentar la iniciativa la ministra de las Culturas, las Artes y el Patrimonio, señora  Carolina Arredondo .  </p><p>La idea fundamental de la iniciativa se orienta a apoyar, proteger, salvaguardar y fomentar el desarrollo de la artesanía, así como dotarla de un marco normativo apropiado. </p><p>Se subraya que la artesanía es una práctica artística cultural de gran relevancia en distintos ámbitos del quehacer nacional, y una disciplina que manifiesta sentido de pertenencia e  identidad multicultural. </p><p>El proyecto busca reconocer a los artesanos como creadores y cultores fundamentales para el desarrollo del acervo cultural del país, razón por la que, además de dotar al sector de una normativa legal específica, establece el deber del Estado de adoptar las medidas que faciliten su labor y sostenibilidad. </p><p>La iniciativa de ley busca también fomentar el área, reconocerla como disciplina artística cultural, contribuir a su puesta en valor; apoyar la creación, promoción, producción, difusión, exhibición, circulación y comercialización de la artesanía, como también la asociatividad, formación, profesionalización, investigación y transmisión del conocimiento del sector. </p><p>En particular, mediante treinta y cuatro artículos permanentes y cuatro disposiciones  transitorias, el proyecto de ley se estructura en tres grandes ejes. </p><p>En primer lugar, el reconocimiento de la práctica artesanal y de sus creadores por su  aporte cultural, social y económico, para lo cual se establece como objetivo el fomento y la protección de la labor artesanal, se definen conceptos asociados a su labor y se elevan a  rango legal los premios a la artesanía existentes. </p><p>En segundo lugar, se establecen nuevos mecanismos de participación institucionalizada y descentralizada, como el Consejo Nacional de Artesanía, entidad asesora del Ministerio  de las Culturas, las Artes y el Patrimonio en materia de formulación de la Política Nacional de Artesanía, selección del Premio Maestro (a) Artesano (a) y propuesta de acciones que contribuyan al desarrollo de diversas manifestaciones de la artesanía. </p><p>A nivel regional, se crean las mesas regionales de artesanía, cuyo objetivo será propiciar la articulación con la institucionalidad local, aprobar el plan de trabajo regional y promover el diseño y ejecución de instrumentos locales en beneficio del sector.  </p><p>En tercer lugar, se consigna el apoyo del Estado para preservar y desarrollar la actividad artesanal, ámbito en que se mandata la elaboración de la Política Nacional de Artesanía,  un instrumento de planificación que establecerá los objetivos para lograr el desarrollo de la actividad artesanal en un periodo de cinco años. </p><p>También se crea el Plan Nacional de Artesanía y el Registro Nacional de Artesanía. </p><p>En materia de incidencia presupuestaria, el informe financiero actualizado de la Dirección de Presupuestos precisa que la implementación de la presente norma legal significará un mayor gasto fiscal por causa de los diez premios anuales Sello de Excelencia a la Artesanía, por 20 UTM cada uno; los dos premios Maestro(a) Artesano(a), por 50 UTM cada uno, y  los ocho premios Maestro Artesano Regional, por 20 UTM cada uno, todo lo cual significa desembolsos estimados por 15 millones de pesos anuales en régimen. </p><p>En materia de financiamiento, este mayor gasto fiscal se financiará con cargo a la partida presupuestaria del Ministerio de las Culturas, las Artes y el Patrimonio durante su primer año, sin perjuicio de acceder a recursos adicionales provenientes de la partida Tesoro Público. </p><p>En régimen, su financiamiento se contemplará en las respectivas leyes de presupuesto del sector público. </p><p>Los integrantes de la comisión compartieron plenamente los objetivos e instrumentos  considerados en el proyecto, al que calificaron como un primer paso para situar la artesanía y sus cultores en el lugar que les corresponde en la cultura nacional, por lo que, puestos en votación los artículos de su competencia, resultaron todos aprobados por la unanimidad  de los ocho legisladores presentes, la diputada Sofía Cid  y los diputados   Boris Barrera ,    Carlos Bianchi ,   Jaime Naranjo ,   Jaime Sáez ,   Gastón von Mühlenbrock , la Presidenta  Gael Yeomans  y el diputado que habla,   Miguel Mellado .  </p><p>En consecuencia, la Comisión de Hacienda recomienda a esta honorable Sala aprobar la presente iniciativa de ley en los términos expuestos. Es todo cuanto puedo informar.</p><p>He dicho. </p><p>La señorita  CICARDINI ,   doña Daniella  (Vicepresidenta).-</p><p>En discusión el proyecto. Tiene la palabra la diputada  Marta Bravo .  </p><p>La señorita  BRAVO (doña Marta) .-</p><p>Señorita Presidenta, como bien se ha dicho, este proyecto de ley busca establecer un estatuto de protección y fomento a la artesanía chilena, con el fin de proteger y fomentar su libre desarrollo.  </p><p>Esta iniciativa es altamente necesaria, pues si bien es cierto que la discusión pública  no tiende a priorizar el área cultural, la verdad es que son miles las personas en Chile que dependen de una actividad artesanal para subsistir. Lo lindo de esto es que mientras logran generar un sustento para sus familias, también generan un tremendo aporte en la mantención de las tradiciones chilenas y el desarrollo cultural, por cierto, algo de gran importancia y  valor en los tiempos de inmediatez y de consumo rápido que estamos viviendo. </p><p>En Ñuble tenemos la suerte de contar con distintas actividades artesanales maravillosas, las que se traspasan de generación en generación. Solo por nombrar algunas, menciono la alfarería de Quinchamalí, la talabartería, la cestería de mimbre, la textilería, los sombreros de fibra vegetal y los tejidos de cuelcha y pita. </p><p>Chile tiene múltiples zonas de artesanía típica, y debemos cuidarla. Es una tarea de todos que estas costumbres perduren en el tiempo. </p><p>Sin duda, voy a votar a favor esta iniciativa. Espero que sigamos discutiendo proyectos que tengan por objeto proteger y fomentar las diferentes expresiones culturales de nuestro país, especialmente aquellas que logran reforzar y mantener vigentes nuestras tradiciones.</p><p>He dicho. </p><p>La señorita  CICARDINI ,   doña Daniella  (Vicepresidenta).-</p><p>Tiene la palabra el diputado  Diego Schalper .  </p><p/><p>El señor  <span class="person" refersTo="http://datos.bcn.cl/recurso/persona/4617">SCHALPER</span>.-</p><p/><p> Señorita Presidenta, por su intermedio saludo a la Ministra de las Culturas, las Artes y el Patrimonio. </p><p>Parto por valorar, por supuesto, el empeño que realiza este proyecto en generar una  estructura bien pensada en términos de favorecer el desarrollo de la artesanía en nuestro  país. A aquellos que representamos zonas donde el desarrollo de la artesanía es esencial y connatural al trabajo, especialmente en los sectores urbanos y rurales, nos parece que es un buen avance y que son correctas las definiciones. De igual modo, la orgánica que se crea nos parece que va en el sentido correcto. Los mecanismos de valoración y registro que incorpora el proyecto también nos resultan valiosos. </p><p>Sin embargo, hay dos materias respecto de las que, me imagino, la ministra nos puede ayudar.  </p><p>Quizá estamos muy influidos por el trabajo que hemos hecho en la Comisión de Seguridad Ciudadana; sin embargo, cada vez se requiere incorporar más en estas orgánicas herramientas legales que existen en el derecho administrativo, como la evaluación permanente, para favorecer el seguimiento y el cumplimiento de resultados. </p><p>Cuando usted crea una orgánica que tiene comités interministeriales, un consejo en  materia de artesanía y mesas regionales, órganos que funcionan en gran medida como  sistemas interoperables, empieza a haber un problema si se traducen simplemente en  instancias de reunión. La gente empieza a ver que distintos estamentos se reúnen, pero no hay seguimiento, no hay control de gestión ni publicación de las actas. Eso no se puede dejar a  la buena o mala voluntad de un acto administrativo ministerial ni de un acuerdo interno, sino que debe fijarse por ley. </p><p>Si bien voy a aprobar este proyecto, dejo este planteamiento a la ministra, el que también transmitiré a los senadores, para que incorporen en el proyecto herramientas de derecho  administrativo que exijan el cumplimiento de tareas. No hay nada peor para la ciudadanía que crear grandes orgánicas que después no redundan en nada. </p><p>En segundo lugar, quiero señalarle a la ministra, por su intermedio, señorita Presidenta, que me parece que hay demasiada indefinición en lo que respecta a las mesas regionales.  Me preocupa que, en el mundo de la artesanía, esas mesas regionales realmente sean representativas de las distintas sensibilidades de quienes representamos a regiones. En ese punto habrá un desafío. Sé que la mesa lo deja un poquito abierto y uno confía en la buena fe de los actores, pero siempre en estas cosas es importante exigirse criterios de representatividad que realmente den cuenta de esa diversidad. </p><p>Vamos a apoyar este proyecto, porque nos parece que va en el sentido correcto. Valoramos el esfuerzo de poner el desarrollo de la artesanía nacional como un pilar fundamental  del desarrollo cultural del país. La oposición, tantas veces criticada, va a apoyar al gobierno en esto. </p><p>He dicho. </p><p>La señorita  CICARDINI ,   doña Daniella  (Vicepresidenta).-</p><p>Tiene la palabra la diputada  Mercedes Bulnes .  </p><p/><p>La señora  <span class="person" refersTo="http://datos.bcn.cl/recurso/persona/5261">BULNES (doña Mercedes)</span>.-</p><p/><p> Señorita Presidenta, por su intermedio saludo a la ministra Carolina Arredondo , presente en la Sala.  </p><p>Las manifestaciones culturales en Chile deben perdurar en el tiempo. Para ello, deben  reconocerse y apoyarse las distintas actividades culturales y, por cierto, la artesanía nacional. Los artesanos requieren el reconocimiento del Estado y, además, su apoyo. Por esto, desde ya manifiesto mi apoyo a este proyecto de ley. </p><p>Sé que el proyecto no es suficiente; todos lo sabemos. Se requiere del apoyo diario y constante de autoridades y de la ciudadanía en pleno, pero esto es un avance, uno relevante, porque permite instaurar las bases de un marco legal sólido que proteja, promueva y  reconozca la importancia cultural, social y económica de la artesanía y los artesanos y  artesanas en Chile. </p><p>Ahora bien, lo central del proyecto es relevar la vocación, la dedicación de quienes se dedican a esta labor a nivel nacional. Son cerca de 34.000 compatriotas, hombres y mujeres, los que crean con sus propias manos obras que valoramos y apreciamos. </p><p>Debo poner el acento, en todo caso, en mi querida Región del Maule, la cual cobija y acoge a grandes cantidades de trabajadoras y trabajadores artesanales. A ellos entrego mi reconocimiento constante. La variedad y riqueza de las artesanías del Maule ha sido reconocida en el país y en el ámbito internacional. La lana, el cuero, la piedra; los subproductos animales, como la crin, el hueso y otros; la madera, los textiles y los productos vegetales, como el junco, la totora y el mimbre; la greda y la cerámica, son materiales que ofrece la naturaleza y son transformados por la creatividad de hombres y mujeres de nuestra región y del país. </p><p>En definitiva, es invaluable el aporte de la artesanía a nuestra identidad cultural y al  desarrollo económico del país. Este es un paso significativo hacia el reconocimiento y  valoración de los artesanos chilenos y sus obras, otorgándoles, además, mecanismos de  participación, marcando un precedente en la forma en que la sociedad y el Estado aprecian y apoyan este sector esencial de nuestra cultura, porque a menudo valoramos lo ajeno, pero con frecuencia perdemos de vista el producto propio. </p><p>Las mejoras que requiera el proyecto deberán hacerse en el Senado. Seguramente,  también podremos discutirlas en su oportunidad. Es indispensable mejorar las formas de  participación, la forma en que se da cuenta del trabajo de las mesas participativas y todo el trabajo que se requiere para valorar nuestras artesanías. </p><p>He dicho. </p><p/><p>El señor  <span class="person" refersTo="http://datos.bcn.cl/recurso/persona/5200">CIFUENTES</span> (Presidente).-</p><p/><p> Tiene la palabra el diputado Felipe Camaño .  </p><p/><p>El señor  <span class="person" refersTo="http://datos.bcn.cl/recurso/persona/5260">CAMAÑO</span>.-</p><p/><p> Señor Presidente, me da mucho gusto que podamos reconocer la importancia de la artesanía en Chile. En este momento se me vienen a la memoria las  colchanderas, los chupalleros, los artesanos que tallan la madera, los artesanos que realizan maravillosas piezas de cerámica con greda en Quinchamalí u otros materiales autóctonos de cada uno de los territorios, como la lana, la madera, la greda, las espigas de trigo, entre tantos otros. </p><p>Me da mucho gusto que podamos discutir este tipo de proyectos en la Cámara de Diputados, porque vamos avanzando en la debida protección que debe tener nuestra cultura en Chile. </p><p>Ayer veía en las redes sociales muchos comentarios de personas que decían que  estábamos perdiendo el tiempo en esta Cámara de Diputados, que este tipo de proyectos no le solucionan la vida a nadie y que mejor nos dedicáramos a legislar sobre lo importante. En ese momento me puse a pensar en lo equivocados que estamos en Chile, en lo mal que estamos como país, en lo triste que es el hecho de que hoy muchas personas piensen así y en cuánto daño nos hacemos al creer que la cultura es poco importante. </p><p>Hay países donde las defensas de sus danzas, de sus artesanías y de su folclor son  gigantescas. Esos países entienden que la protección de su cultura y su patrimonio forma parte de su identidad como pueblo, de su historia, de su legado, de las futuras generaciones y de lo que nos hace felices como pueblo. </p><p>Por eso, agradezco que nos demos el tiempo de legislar sobre la artesanía, que le demos una puesta en valor a los artesanos, que defendamos sus legados y que les entreguemos  las herramientas para que puedan seguir desarrollando la cultura de nuestro pueblo. </p><p>Obviamente, voy a votar a favor este proyecto, porque creo que proteger la cultura es  proteger nuestra historia. </p><p>Por eso, por todos los artesanos y todas las artesanas de Chile, votaré a favor esta iniciativa.</p><p>He dicho.  </p><p/><p>-o- </p><p/><p>El señor  <span class="person" refersTo="http://datos.bcn.cl/recurso/persona/5200">CIFUENTES</span> (Presidente).-</p><p/><p> Saludo con mucho afecto a los representantes del club de adulto mayor  Santa Rosa , de Río Claro, y a las mujeres emprendedoras de la comuna de Hualañé, así como también al alcalde de Río Claro, señor   Américo Guajardo , y al concejal de la misma comuna señor   Roberto Rojas , invitados por el diputado  Hugo Rey . Les damos una cordial bienvenida a la Cámara de Diputados.  </p><p/><p>-o- </p><p/><p>El señor  <span class="person" refersTo="http://datos.bcn.cl/recurso/persona/5200">CIFUENTES</span> (Presidente).-</p><p/><p> Tiene la palabra el diputado Cristóbal Urruticoechea .  </p><p/><p>El señor  <span class="person" refersTo="http://datos.bcn.cl/recurso/persona/4549">URRUTICOECHEA</span>.-</p><p/><p> Señor Presidente, saludo a la ministra de las Culturas, las Artes y el Patrimonio, un orgullo de su madre, la diputada Carolina Marzán , quien, además de ser una muy buena madre, es una muy buena diputada. Es un gusto que esté aquí con nosotros.  </p><p>Ministra, yo represento a un distrito que es muy rico en su naturaleza, en la calidad de sus personas y en su artesanía, porque abarca desde la cordillera hasta el mar. Entonces, imagine la cantidad de artesanía que se elabora, se crea y se produce en todos esos espacios. </p><p>Lamentablemente, con el tiempo, por el poco apoyo que se le da al arte de nuestro país, la artesanía se ha ido perdiendo. Antes existían los llamados “viejos de los lazos”, quienes hacían unos lazos de cuero muy bonitos para los caballos. </p><p>También ocurre que, si hoy uno va a una feria artesanal, se encuentra con productos de China o de otros lados, y no están los productos nuestros. A veces se venden chupallas o sombreros que no son de acá. </p><p>Por lo tanto, es evidente que hay que valorar muchísimo este proyecto de ley, pero tengo mis dudas y mis inquietudes.  </p><p>Ministra, le pido que, si después interviene, me las pueda resolver, porque hay varios puntos que me indican que los artesanos van a quedar muy sujetos a lo que proponga y diga el Estado. Incluso, se crearán algunas facciones. Entonces, ellos tendrán que pertenecer directamente a lo que diga la mesa y a lo que proponga el Estado.  </p><p>Tal vez van a estar muy propensos a lo que pueda querer, producir o intencionar el  gobierno de ese momento. Como se van a ver un poco amarrados por el Estado -no es tan así, pero lo digo de esa forma para que se entienda-, tal vez este podrá pedirles que produzcan algo en serie para regalar un día equis de Chile. </p><p>Entonces, nos vamos a empezar a correr un poco de la esencia de este proyecto de ley y vamos a volver a lo que señalé: ferias artesanales en donde se venden productos chinos, que se multiplican por millones. </p><p>Son varios los puntos y poco el tiempo, pero me quiero enfocar en que el proyecto tiene varios puntos en los cuales me da la sensación de que los artesanos quedan muy amarrados al Estado y al gobierno, y a distintas facciones que se crean para este proyecto.  </p><p>Ministra, en estos pocos segundos que me quedan, me correré solo un metro del proyecto, para pedirle lo que he solicitado a todos los ministros de las Culturas, cual es que, por favor, recuerde a aquellos cantantes de los ochenta y de los setenta, tanto del Canto Nuevo como de la Nueva Canción Chilena, que hoy, por distintas razones, no están en los lugares en donde deberían estar y no tienen el reconocimiento que deberían tener.  </p><p>He dicho. </p><p/><p>El señor  <span class="person" refersTo="http://datos.bcn.cl/recurso/persona/5200">CIFUENTES</span> (Presidente).-</p><p/><p> Tiene la palabra la diputada Nathalie Castillo .  </p><p>La señorita  CASTILLO (doña Nathalie) .-</p><p>Señor Presidente, primero, saludo a la ministra.  </p><p>Han pasado años para volver a discutir en la Cámara de Diputadas y Diputados un  proyecto de ley que tenga como objetivo otorgar un estatuto de protección y de fomento a la artesanía, con el objeto de apoyar, proteger, salvaguardar y fomentar su desarrollo, así como también dotarla de un marco normativo apropiado, que es una demanda histórica del sector de los artesanos y artesanas, de los cultores y cultoras de nuestro país. </p><p>Luego de un intenso trabajo legislativo, tanto en la comisión técnica como en las  organizaciones del rubro de la artesanía y de la disciplina artesanal, a través de mecanismos de participación y colegislatura, este proyecto fue despachado a esta Sala el pasado 19 de marzo, fecha en que además se celebró el Día Internacional del Artesano y la Artesana. </p><p>Durante el análisis del proyecto pudimos contar con la presencia de representantes del mundo de las culturas, pero también de diversas organizaciones y agrupaciones del país, lo que logró visibilizar las múltiples falencias que tiene este sector. Con sus relatos y experiencias pudieron enriquecer la discusión de este proyecto, permitiendo la modificación y la mejora del mensaje presidencial en discusión. Eso lo quiero subrayar, porque ha sido un trabajo en conjunto. </p><p>Quiero destacar que el proyecto reconoce a la artesanía como una práctica artística y cultural, junto con sus cultoras y cultores. Además, impulsa el fomento, la promoción, la producción, la difusión, la exhibición, la circulación y la comercialización de la artesanía, de aquellos productos que nacen de las manos de nuestros cultores y cultoras. Igualmente, promueve la actividad, la asociación, la colaboración, la investigación y el conocimiento que tiene este sector. </p><p>Por otra parte, propicia la protección de la labor artesanal artística y también de sus materias primas, cuestión que es superrelevante, porque desde allí nace la creación propiamente tal. </p><p>Además, agrega que es deber del Estado de Chile proteger y desarrollar la artesanía, por su relevancia en diversos ámbitos: cultural, social, económico y turístico. </p><p>Estamos acostumbrados a tener espacios culturales y turísticos asociados a la artesanía, que es otro debate que debemos fomentar desde todos los instrumentos y mecanismos que tenga el Estado a disposición –¿por qué no a través del Ministerio de Economía, Fomento y Turismo?-, para así hacer un rescate de la cultura de nuestro país y de la artesanía chilena. </p><p>Asimismo, distingue a los artesanos como creadores y cultores fundamentales para el acervo cultural, para la transformación, para un nuevo modelo de desarrollo, con medidas que faciliten su labor y consoliden su sentido de pertenencia y también de identidad. </p><p>Son muchas las indicaciones que realizamos y también son muchas las demandas que quedaron fuera. Sin embargo, creo que este proyecto les va a entregar mejores condiciones a los artesanos y artesanas, a los cultores y cultoras de nuestro país. Así que vaya un saludo para ellos. </p><p>He dicho. </p><p/><p>El señor  <span class="person" refersTo="http://datos.bcn.cl/recurso/persona/5200">CIFUENTES</span> (Presidente).-</p><p/><p> Tiene la palabra el diputado Francisco Pulgar .  </p><p/><p>El señor  <span class="person" refersTo="http://datos.bcn.cl/recurso/persona/5263">PULGAR</span>.-</p><p/><p> Señor Presidente, me voy a tomar de las palabras que expuso mi colega: mejores condiciones y un trato digno a los artesanos y artesanas. </p><p>Comencemos por hacer justicia comunalmente, y que los alcaldes o alcaldesas les den el real valor a los artesanos de las distintas localidades. El alto precio que les cobran a los  artesanos por sus puestos cuando van a vender sus productos es un atentado a su economía. ¿Eso requiere de una ley, de una norma? Creo que no. </p><p>El reconocimiento de nuestros artesanos debe partir por casa, desde los municipios, con una política pública comunal, y no colgarse de la foto de los artesanos cuando cumplen ochenta o noventa años, ponerse la mantita o tomarse el traguito de aquel que guardó vino por mucho tiempo. Esa política fácil la veo a diario en la Región del Maule, de cordillera a costa. </p><p>Cuando algunos dicen que esto es depender del Estado, les digo que no es así. Vayan a ver, por favor, a la señora  María Medel  o a la señora   María Eugenia Muñoz . La señora   María Medel  prepara tortas artesanales en la huerta, en Hualañé; ella debe estar cerca en los noventa años.  </p><p>Asimismo, la señora  María Eugenia Muñoz , recolectora de luche, allá en Boyeruca, en la comuna de Vichuquén. Usted me dice ¿Boyeruca? ¡Nadie va a Boyeruca!   </p><p>Tampoco hay una política de Estado en cuanto a la difusión del turismo. Se han gastado miles de millones de pesos en programas que dicen: “Descubre el Maule”. ¡Oiga, tenemos clarito dónde está el Maule! </p><p>Más allá de apoyar este proyecto -felicito a quienes impulsaron esta moción-, hago ver que en la práctica la realidad es otra. En la práctica, las autoridades comunales deben empatizar, alcaldes y alcaldesas deben empatizar con los artesanos. El 85 por ciento de la gente que vive en las zonas urbanas tiene raíces culturales campesinas, pero ¡pucha que se les ha olvidado eso! Como que algunos se pusieron traje y se les olvidó su origen. ¡Más dignidad con los artesanos! </p><p>Esto no depende de una norma ni de una ley, sino del trato que les den a los artesanos las autoridades, los alcaldes y las alcaldesas, y sobre todo aquellos concejales y concejalas, que son los entes a fiscalizar, para dar una dignidad a los artesanos de este país y de la Región del Maule. </p><p>He dicho. </p><p/><p>El señor  <span class="person" refersTo="http://datos.bcn.cl/recurso/persona/5200">CIFUENTES</span> (Presidente).-</p><p/><p> Tiene la palabra la diputada Marta González .  </p><p>La señorita  GONZÁLEZ (doña Marta) .-</p><p>Señor Presidente, sin duda, este día viene a ser un suceso de varios años de lucha por una ley de artesanía.  </p><p>Desde que empezamos la discusión en la Comisión de Cultura, Artes y Comunicaciones, todos los artesanos y artesanas que expusieron su experiencia, y la forma en que soñaban esta ley de artesanía, cada uno de ellos lo hizo con gran sentimiento y una profunda emoción, porque después de tanto tiempo se podía ver concretada esta iniciativa. </p><p>Por supuesto, saludo a la ministra, y agradezco también el compromiso que tuvo desde el primer día que asumió la cartera, donde le puso plazos a este proyecto, le puso distintas  etapas, hasta que llegamos a este día. </p><p>Esta futura ley de artesanía se construye con los diálogos, con los distintos gremios, con agrupaciones, artesanos y artesanas a lo largo de todo nuestro país. </p><p>Para mí es un tremendo orgullo y un honor haber sido partícipe de esta construcción,  de este soñar juntos y de este visionar cómo la artesanía en nuestro país necesita un sitial  que le corresponde; un sitial, además, ancestral, de trabajar en estos oficios, de hacerlos  permanentes y de extenderlos en el tiempo. </p><p>Cuando vamos a las distintas ferias artesanales, cada uno de nosotros y de nosotras se emociona al ver las distintas creaciones de los artesanos de nuestro país, pero sin duda que hoy están en muy mal pie. Incluso algunos han sido perseguidos, echados de los lugares  donde han trabajado, y se encuentran sin lugares donde poder promocionar sus artesanías. </p><p>Cómo no mencionar también lo que puso en la palestra el diputado Bernales : cómo en distintos sitios de nuestro país, como en el aeropuerto, nos encontramos con artesanías que dicen ser chilenas, pero al dar vuelta la pieza vemos que provienen de China.  </p><p>Eso no puede seguir ocurriendo. Como país debemos respetar nuestra cultura, debemos promover y fomentar nuestra cultura, junto con ellos, los artesanos y artesanas. </p><p>A lo largo del caminar de esta ley en proyecto nos hemos dado cuenta de que la mayoría de los artesanos y artesanas en nuestro país bordea los 65 años.  </p><p>Es por eso que este proyecto es de toda justicia, para que no sigamos perdiendo oficios, para que en sus últimos días nuestros artesanos y artesanas vean brillar sus oficios y se den cuenta de que Chile finalmente les da el sitial que merecen con una proyección a futuro, para que la artesanía sea un potencial de desarrollo económico y turístico para nuestro país. </p><p>Gracias a todos y todas quienes han participado en la discusión de este proyecto de ley.</p><p>He dicho. </p><p/><p>-Aplausos. </p><p/><p>El señor  <span class="person" refersTo="http://datos.bcn.cl/recurso/persona/5200">CIFUENTES</span> (Presidente).-</p><p/><p> Tiene la palabra el diputado Johannes Kaiser .  </p><p/><p>El señor  <span class="person" refersTo="http://datos.bcn.cl/recurso/persona/5271">KAISER</span>.-</p><p/><p> Señor Presidente, nuestros artesanos son, probablemente, una de las caras de Chile para el mundo. </p><p>En ese sentido, se saluda que se intente mejorar su situación, pero al mismo tiempo debo decirles lo siguiente. Esto también restringe a los artesanos, los encuadra, y de alguna manera los obliga a someterse a una nueva estructura estatal, y lo que sé de las estructuras estatales es que normalmente son ineficientes. </p><p>Es una nueva estructura estatal que va a consumir recursos que no van a llegar a otra parte. Con una nueva comisión, con gente de distintos ministerios, etcétera, lo que estamos creando aquí es burocracia, que probablemente al final también termine siendo una atadura para los propios artesanos. </p><p>¿No tenemos ya suficiente papeleo que hacer para las más distintas actividades? ¿No puede simplemente el sentido común, de alguna manera, imponerse a la hora de solucionar una serie de problemáticas?  </p><p>¿Necesitamos burocracia? ¿Necesitamos funcionarios públicos que estén dedicados a  subsanar la falta de sentido común?  </p><p>Por lo demás, hay pocas organizaciones que funcionen normalmente con tan poco sentido común como el propio Estado. </p><p>Entonces, nos vamos a gastar dinero, que necesitamos desesperadamente en otra parte, en una burocracia que probablemente va a restringir la actividad de los artesanos. </p><p>Me pregunto, honestamente, ¿a quién sirve? ¿Va a servir efectivamente a los artesanos? ¿O va a servir más bien a los funcionarios? Va a servir al tamaño del Estado.  </p><p>¿Vamos a tener al final un retorno mayor que la inversión? </p><p>Son preguntas que uno se puede hacer aquí, porque nosotros somos quienes debemos determinar después hacia dónde van las lucas del presupuesto, y un peso se puede gastar una sola vez. Entonces, me puedo gastar el peso en salud, para tratar de impedir que 50.000 personas mueran al año sin atención de salud; me lo puedo gastar en seguridad, donde debo impedir que miles de personas sean asesinadas, o me lo puedo gastar en más burocracia. </p><p>Honestamente, prefiero gastármelo ahí donde las urgencias son más serias, y sin ponerle necesariamente ataduras o una camisa de fuerza a la actividad de los artesanos.</p><p>He dicho. </p><p/><p>El señor  <span class="person" refersTo="http://datos.bcn.cl/recurso/persona/5200">CIFUENTES</span> (Presidente).-</p><p/><p> Tiene la palabra el diputado Leonardo Soto .  </p><p/><p>El señor  <span class="person" refersTo="http://datos.bcn.cl/recurso/persona/4523">SOTO (don Leonardo)</span>.-</p><p/><p> Señor Presidente, por su intermedio saludo a la ministra de las Culturas, las Artes y el Patrimonio, señora  Carolina Arredondo Marzán . Bienvenida a este hemiciclo, sobre todo porque está impulsando este proyecto, que es tan importante para el alma chilena.  </p><p>Hoy tenemos en tabla el proyecto que dicta normas sobre la protección y el fomento de la artesanía. </p><p>La artesanía, y los artesanos y los cultores a lo largo de todo el país, tienen mucha  esperanza en este proyecto de ley. Por eso saludamos hoy la presencia en las graderías de artesanos y artesanas que vienen de todas partes a sacar su voz y a decir ¡aquí estamos! </p><p>(Aplausos) </p><p>Aquí estamos impulsando un proyecto de ley que simplemente destaca, valoriza y le da un reconocimiento a la artesanía. </p><p>La artesanía es una disciplina artística. Tiene que ver con la creatividad, con el ingenio, con el rescate de nuestra memoria, de nuestros pueblos originarios y de técnicas ancestrales, pero también tiene que ver con la cultura. La artesanía impacta en la cultura chilena y genera identidad y cohesión. Como dijo alguien, es nuestra cara ante el resto del mundo y expresa el carácter multicultural que tienen los chilenos.  </p><p>Este proyecto de ley permitirá visibilizar esas características enormemente, porque es un reconocimiento a un trabajo gigantesco. </p><p>Una de las demandas importantes del mundo de los artesanos, además de que sea valorado su trabajo -es lo que hace este proyecto de ley-, es que su rubro sea considerado una actividad económica que da sustento a miles de familias, sustento que necesitan durante todo el año, señora ministra, no solo cuando hay ferias artesanales, festividades religiosas o exposiciones.  Por ello, es importante que este proyecto de ley incluya a los artesanos, cuya participación es uno de los ejes fundamentales. Para esto se crean varios comités y consejos en los que podrán ser escuchados, así como el Registro Nacional de Artesanía, que será muy relevante. </p><p>También se da un auge especial a los ya existentes premios “Sello de Excelencia” y “Maestro (a) Artesano (a)”, y se establece un aporte estatal que es fundamental para que todo ello  funcione. </p><p>Desde el Partido Republicano dicen que es una mala idea que el Estado apoye a la  artesanía, pues la restringe. ¡Pero en qué mundo viven! Este proyecto de ley no crea más burocracia, sino que hace un aporte especial al apoyo y fomento de esta actividad, que es esencial para la cultura, la dignidad laboral y el desarrollo sostenible. Por eso, lo votaremos a favor. </p><p>Nosotros no solo brindamos nuestro apoyo al sector artesanal, sino que contribuimos  también a la preservación de nuestra rica herencia cultural y a robustecer nuestras economías locales. </p><p>¡Adelante la artesanía! ¡Bravo por este proyecto de ley! </p><p>He dicho. </p><p/><p>El señor  <span class="person" refersTo="http://datos.bcn.cl/recurso/persona/5200">CIFUENTES</span> (Presidente).-</p><p/><p> Tiene la palabra la diputada Catalina Pérez .  </p><p>La señorita  PÉREZ  (doña Catalina).-</p><p>Señor Presidente, en primer lugar, saludo con alegría la presencia de la ministra y el compromiso del gobierno por sacar adelante este proyecto de ley, después de más de tres décadas de lucha de artesanos y artesanas en nuestro país,  quienes han exigido una ley que los reconozca y los fomente, y que proteja la actividad.  </p><p>Sin esta iniciativa, de nada sirve tener una Constitución que, en su artículo 19, número 10o, garantiza la protección y el incremento del patrimonio cultural de la nación; de nada sirve tener en la Constitución un artículo 19, número 25o, que asegura la libertad de crear y difundir las artes, y que protege el derecho de autor; de nada sirve tener un ministerio creado por la ley No 21.045, que señala las áreas de promoción y contribución del ministerio, pero que no incluye la artesanía dentro de ellas. </p><p>Por eso es tan importante que este proyecto parta con el reconocimiento de la práctica artesanal y de los artesanos y artesanas, con definiciones claras, como las de “feria artesanal”, “artesanía” y “artesano”; con la declaración del 7 de noviembre como el Día Nacional de la Artesanía, a modo de reconocimiento a los artesanos y artesanas de nuestro país; con la  elevación a rango legal de premios que son necesarios para reconocer anualmente su trabajo, y con un aumento de la participación descentralizada en el fomento y desarrollo de la  artesanía, algo que me parece sumamente importante. </p><p>Agradezco a Miguel, a Araceli, a  Sandra , a Jaqui, a Alejandra, representantes de artesanos y artesanas de nuestra región, quienes se sumaron a este debate y que han dado esta lucha, poniendo mucho énfasis en la necesidad de descentralizar la toma de decisiones y la Política Nacional de Artesanía, uno de los tres ejes de este proyecto. Dichos ejes son: el reconocimiento de la práctica artesanal, los mecanismos de participación mediante el Consejo Nacional de Artesanía y las mesas regionales, y el apoyo estatal a los artesanos.  </p><p>La Política Nacional de Artesanía, el Plan Nacional de Artesanía y el Comité Interministerial, vinculado a su aplicación, deben considerar las miradas regionales para tener una visión descentralizada del ejercicio de la artesanía. </p><p>Hoy en día, tanto en la Región de Antofagasta como en el resto del país, el 70 por ciento de los artesanos son mujeres. De ellas, el 65 por ciento pertenece al mundo indígena. Por lo tanto, no habrá protección del patrimonio si no hay protección de la artesanía; no habrá  desarrollo social, cultural y económico si no protegemos la artesanía; no habrá identidad local si no protegemos la artesanía. </p><p>Por lo mismo, mi llamado es a aprobar este proyecto. Saludo a los artesanos y artesanas, y les agradezco por la lucha inconmensurable que han llevado a cabo durante décadas, durante todos estos años, para lograr que el Estado los reconozca. </p><p>Agradezco a los artesanos y artesanas de mi región, quienes se han sumado a este debate y van a continuar vigilantes para asegurarse de que este proyecto se mejore en el Senado, a fin de que sigamos avanzando por más dignidad en el trabajo de los artesanos y artesanas de nuestro país. </p><p>He dicho. </p><p/><p>El señor  <span class="person" refersTo="http://datos.bcn.cl/recurso/persona/5200">CIFUENTES</span> (Presidente).-</p><p/><p> Tiene la palabra el diputado Héctor Barría .  </p><p/><p>El señor  <span class="person" refersTo="http://datos.bcn.cl/recurso/persona/5215">BARRÍA</span>.-</p><p/><p> Señor Presidente, por su intermedio saludo a la ministra de las Culturas. </p><p>Destaco este proyecto, porque le da el realce que se merece a uno de los oficios más  antiguos del mundo, en el cual perduran las tradiciones y se da testimonio de la historia y de la cultura de los pueblos. </p><p>Quiero destacar a mujeres de la Región de Los Lagos, a la cual represento, quienes durante mucho tiempo estuvieron esperando esta gran noticia, como  Viviana Rantul ,   Elba Cumian  y   Rosalba Paillahueque . Asimismo, destaco a amigos que trabajan el mimbre en la comuna de Río Negro, o el cuero en la comuna de Puerto Octay.  </p><p>También quiero hacer memoria de que la comuna de Purranque, donde fui alcalde, alguna vez tuvo el eslogan “El paisaje hecho artesanía”. Son recuerdos que de alguna manera hoy se mantienen vigentes gracias a muchos hombres y mujeres que estudiaron en la Escuela de Artesanos de Purranque, la cual se dio a conocer en todo el país gracias al programa de  Francisco “Pancho” Saavedra. Ello permitió que gente de Isla de Pascua se perfeccionara en esa escuela, que, aunque lamentablemente después fue cerrada, le dio una categoría superior a la artesanía nacional. </p><p>Todas esas son muy buenas ideas que esperamos que empiecen a ser recogidas en este marco normativo, que, sin duda, es un gran avance. Pero tenemos la esperanza de que esto no descansará aquí. La artesanía merece un rango profesional para que no sea vista como el toldo de la plazoleta, sino que cuente con los espacios necesarios para la comercialización. Para ello, por supuesto, debemos dar a esta noble profesión u oficio la envergadura o el realce que merece. </p><p>Aprobaremos esta iniciativa. Agradecemos a la ministra por su compromiso, así como a todas las familias de artesanos de nuestro país. </p><p>He dicho. </p><p/><p>El señor  <span class="person" refersTo="http://datos.bcn.cl/recurso/persona/5200">CIFUENTES</span> (Presidente).-</p><p/><p> Tiene la palabra la diputada Ana María Bravo .  </p><p/><p>La señora  <span class="person" refersTo="http://datos.bcn.cl/recurso/persona/5223">BRAVO (doña Ana María)</span>.-</p><p/><p> Señor Presidente, la artesanía es cultura y  economía, es una muestra de la identidad de las distintas zonas del país, y su producción y comercialización genera recursos a la economía familiar, regional y nacional. </p><p>Los artesanos y las artesanas, a través de sus creaciones, constituyen un elemento  importante para el turismo, por lo que este proyecto de ley no solo hace un reconocimiento a la práctica artesanal y a sus creadores con su aporte cultural, sino que también contempla el apoyo del Estado para preservar y desarrollar la actividad artesanal tanto a nivel individual, con la creación del registro Chile Artesanía, como a nivel asociativo, el cual fortalece y  mejora las actividades económicas. </p><p>Tanto en el país como en la Región de Los Ríos, a la cual represento, existen artesanías con una alta identidad territorial, como el Boqui Pil Pil de Alepúe, cuyos artesanos fueron reconocidos como tesoros humanos vivos. También está la platería mapuche, los tejidos de lana de oveja con telar, la madera de artesanía nativa y el cuero. </p><p>Por último, quiero reconocer con todo cariño y admiración a la cultora y artesana de  platería mapuche  Liliana Tripailaf , quien el año pasado recibió el Premio Regional de las Artes y la Cultura de Los Ríos. Además, es fundadora de la Agrupación de Plateras de  Mariquina, y día a día preserva, difunde y transmite sus conocimientos a las nuevas  generaciones, manteniendo vivas las técnicas y tradiciones ancestrales. Del mismo modo, es una exitosa emprendedora.  </p><p>Por lo expuesto, apoyaré este proyecto, que fortalecerá el patrimonio cultural a través del tiempo, la identidad territorial y el desarrollo económico local y nacional.</p><p>He dicho. </p><p/><p>-Hablan varios diputados y diputadas a la vez. </p><p/><p>El señor CIFUENTES (Presidente).-</p><p/><p> Pido a los diputados y diputadas que tomen asiento y guarden silencio, por favor.  </p><p>No seguiré otorgando el uso de la palabra mientras los diputados permanezcan de pie. Tiene la palabra el diputado Luis Sánchez .  </p><p/><p>El señor SÁNCHEZ.-</p><p/><p> Señor Presidente, el arte es libre. Creo que es la primera reflexión que debiésemos hacer respecto de este tema. </p><p>Quiero felicitar a todos los artesanos de nuestro país, a todos los artesanos chilenos,  porque son un actor fundamental en la defensa y continuación de nuestra cultura, de nuestras tradiciones, aquello que ha fundado la construcción de nuestro país y que debe proyectarse hacia el futuro. </p><p>Por supuesto, es indispensable que desde el Estado se entregue un apoyo a los artesanos y que se ayude, que se colabore, para que esta proyección hacia el futuro de la defensa y cuidado de nuestras tradiciones se fortalezca. </p><p>Hay varios elementos que me preocupan de este proyecto de ley, porque al final lo que veo es una inspiración detrás, basada muy en la lógica, lo cual entiendo y respeto, del pensamiento de izquierda, que es entender que la única forma de fortalecer las cosas es con la presencia dominante del Estado en cada una de las partes del proceso de toma de decisiones. </p><p>¿Dónde lo veo? Aquí no estoy especulando. En primer lugar, en el proyecto se habla del Plan Nacional de Artesanía, que pretenderá dirigir la labor artesana, o por lo menos así lo interpreto. Asimismo, establece mecanismos de acreditación, de educación y de transmisión del conocimiento de los artesanos, pero todo dirigido por el Estado. Además, propone la creación de un Consejo Nacional de Artesanía, que puede ser una iniciativa interesante si es para apoyarlos, pero que es un riesgo si el objetivo es politizar una labor tan fundamental para la protección de nuestra historia y de nuestra cultura. Estoy leyendo la norma, estoy leyendo cómo está redactada esta iniciativa y no veo muy claro si el objetivo es lo uno o lo otro. </p><p>Insisto en el punto, es un riesgo muy grande darle poder total para conducir el devenir de algo tan libre, tan del alma de las personas, como es el arte. </p><p>Sin embargo, lo que me preocupa más, y la forma cómo se está planteando acá es  preocupante, es lo que señala sobre la creación de un Registro Nacional de Artesanos, el  cual tengo entendido que ya existe. ¿Cuál es la necesidad de empadronarlos? ¿Cuál es la necesidad de tener un registro? ¿Para qué se va a usar ese registro? ¿Qué garantías existen respecto de la forma cómo el Estado manejará este registro? </p><p>Lo que es más preocupante respecto de este registro es que el Estado se da la atribución de expulsar a artesanos de este registro, que se establecerá sobre la base de una resolución dictada por la Subsecretaría del Patrimonio Cultural; o sea, mera potestad administrativa, no pasaría ni siquiera por el Congreso Nacional, sino por el propio gobierno, y cada gobierno podría modificar los criterios y los requisitos para vetar a un artesano, quienquiera este sea, del ejercicio de su función. </p><p>Obviamente, es una responsabilidad nuestra apoyar las artes, la artesanía y el resguardo  de nuestra cultura, pero no se puede hacer de cualquier forma y no podemos darle poderes absolutos al Estado. </p><p>He dicho. </p><p/><p>El señor CIFUENTES (Presidente).-</p><p/><p> Tiene la palabra la diputada Daniela Serrano .  </p><p>La señorita  SERRANO (doña Daniela) .-</p><p>Señor Presidente, por su intermedio, saludo a la ministra que está en Sala, a todos los parlamentarios y a las parlamentarias que se dedicaron a trabajar en este proyecto durante largo tiempo. Recibimos en distintas audiencias a  artesanos y artesanas y finalmente lo que terminó versando la conversación fue la protección de la artesanía.  </p><p>No estoy acá para debatir sobre lo que es la libertad para algunos, la regulación, o finalmente cómo ven el Estado como una burocracia, sino para legislar lo que los artesanos y artesanas nos han pedido, para hablar hoy sobre la precariedad laboral, la vulnerabilidad a la cual están sometidos bajo estos malos conceptos de libertad, o cuando se habla de que el Estado debe solo mirar y finalmente dejan en desprotección a quienes más lo necesitan. </p><p>En ese sentido, creo que es importante entender que esta ley establece un marco normativo, que, sin duda, debe ayudar a los artesanos y artesanas a tomar decisiones sobre una política nacional que debe ser inclusiva, sobre todo debe velar para que los artesanos y artesanas tengan oportunidades de desarrollo dentro de nuestro país, no solo a través de la romantización de lo que significa ser un artesano o artesana casi extinto, porque eso es lo que ha pasado. </p><p>No hemos protegido a la artesanía en cuanto a su fomento y a su desarrollo, hoy debemos involucrarla en lo que claramente merece ser protegido como patrimonio. En ese sentido, será clave que este proyecto avance. </p><p>Debemos comprometer otras cosas cuando hablamos de poner mesas de trabajo, más  que mesas de trabajo, estos comités interinstitucionales, porque, sin duda, para darle  protección a los artesanos y artesanas no solo necesitamos manifestar buenas intenciones  en este proyecto de ley, necesitaremos el esfuerzos de otros ministerios; por ejemplo, el de Economía, para lo que significa fomentar a través de escuelas de artes, cosa que fue parte de nuestra conversación, y ver una política en la que, incluso, se puede involucrar hasta el  mismo Ministerio de Educación. Por poner un ejemplo. Eso no es burocracia, es protección. </p><p>Quiero terminar mi intervención saludando a cada una de las agrupaciones de artesanos, en particular a la Unión Nacional de Artesanos y Artesanas, que se involucró directamente en las indicaciones que estuvimos discutiendo. </p><p>He dicho. </p><p/><p/><p>El señor CIFUENTES (Presidente).-</p><p/><p> Tiene la palabra la señora  Carolina Arredondo, ministra de las Culturas, las Artes y el Patrimonio.  </p><p/><p>La señora ARREDONDO, doña Carolina (ministra de las Culturas, las Artes y el  Patrimonio).-</p><p/><p> Señor Presidente, por su intermedio, quiero agradecer a los diputados y  diputadas de la Comisión de Hacienda y de la Comisión de Cultura, Artes y Comunicaciones, quienes aprobaron por unanimidad este proyecto que viene a constatar un hecho, ya que la falta de reconocimiento de la práctica artesanal en Chile nos llevó al punto de generar un proyecto que nos dé un marco normativo, que genere, que promueva y que, además, pueda fomentar y proteger no solo la artesanía, sino que a sus artesanos, artesanas y a sus cultores. Por eso cuando se habla de que se generan definiciones es precisamente porque eso es lo que estamos haciendo, proteger la artesanía en Chile. </p><p>Cuando hablamos de proteger la artesanía, de fomentarla y de resguardarla, hablamos de fomentar nuestra identidad nacional a través de esta práctica, ya que probablemente en todas y en cada una de las regiones habita un artesano y una artesana. </p><p>Me gustaría precisar respecto de cómo funciona y se articula el Ministerio de las Culturas, las Artes y el Patrimonio, en que precisamente conviven muchas leyes sectoriales, como la que se está presentando hoy, la ley de artes escénicas, que define al sector del teatro, del  circo, de la danza, de la ópera, de los narradores orales; la ley del sector audiovisual; la ley del fomento a la música chilena y la ley del libro. Esperamos que la ley de artesanía se venga a incorporar a estos otros cuerpos legales y a estas leyes sectoriales que componen nuestro ministerio, en que, muchos de ellos, la verdad todos, están compuestos por órganos de la sociedad civil, por consejos. </p><p>Para dilucidar o despejar las dudas respecto de una palabra que se ha puesto aquí que tiene que ver con mayor burocracia, quiero contar que esa es una de las maneras en que funciona nuestro ministerio. </p><p>Nuestro ministerio, lo puedo decir con mucho orgullo, es uno de los ministerios más  ciudadanos y participativos que tenemos. ¿Por qué? Porque a través de sus consejos se van tomando las distintas decisiones y los consejos tienen voz y voto respecto de la política pública en materia de cultura y de arte. </p><p>En ese sentido, con este proyecto de ley quisimos ir un poco más allá, estableciendo las mesas regionales. </p><p>Por su intermedio, señor Presidente, quiero decir al diputado Diego Schalper , quien  estaba preocupado sobre esta materia, que es el reglamento el que va a definir cómo se van a integrar cada una de estas mesas regionales y, por supuesto, quienes las componen, desde donde surgirá un representante para el Consejo Nacional de Artesanía.   </p><p>El Comité Interinstitucional no genera mayor burocracia ni gasto para el Estado, ya que son funcionarias y funcionarios quienes componen este comité. Es desde aquí donde se va a crear un Plan Nacional de Artesanía, que va a regir las acciones que desde el Ministerio y desde el Estado se deben llevar a cabo.  </p><p>¿Qué quiero decir con esto? Que al estar representada la sociedad civil en cada una de estas instancias participativas, no es un gobierno específico, sino que son las y los representantes del sector de la artesanía quienes van a tomar decisiones fundamentales dentro de nuestro ministerio para enfocar la política pública. </p><p>Eso lo valoramos profundamente porque, como decía anteriormente, desde nuestro  Consejo Nacional hasta los distintos consejos que componen nuestro ministerio, el sector de la artesanía estará debidamente representado, con voz y voto, en las decisiones que se van tomando.  </p><p>Respecto de la transparencia, me gustaría señalar que dentro del artículo 7 está la obligatoriedad de publicar cada una de las actas y, además -insisto-, es algo que actualmente nuestro ministerio y cada uno de los consejos realiza. Las actas se publican porque son públicas.  </p><p>Quiero agradecer, nuevamente, a los parlamentarios y a las parlamentarias que han sido parte del desarrollo de este proyecto y han enriquecido profundamente su debate en cada una de las comisiones, principalmente en la Comisión de Cultura, Artes y Comunicaciones.  </p><p>Agradezco también a los artesanos y artesanas que hoy nos visitan, sobre todo de la  Región de OHiggins, y a los trabajadores y trabajadoras del Ministerio de las Culturas, las Artes y el Patrimonio, quienes saben y reconocen que esta es una demanda muy sentida del sector de la artesanía y que esperamos poder avanzar de manera favorable.  </p><p>Para cerrar, quiero hacer referencia al punto expresado por el diputado Cristóbal  Urruticoechea .   </p><p>El Consejo no estandariza la práctica artesanal; por el contrario, recoge cada una de las demandas y orienta la política desde el sector de la artesanía. Por lo tanto, no es un gobierno ni es el Estado quien va guiando, sino que, por el contrario, va generando las condiciones para que la práctica de la artesanía se resguarde, se promueva y se difunda.  </p><p>Muchas gracias. </p><p>He dicho. </p><p/><p>El señor  <span class="person" refersTo="http://datos.bcn.cl/recurso/persona/5200">CIFUENTES</span> (Presidente).-</p><p/><p> Por un punto de Reglamento, tiene la palabra el diputado Jaime Araya .  </p><p/><p>El señor  <span class="person" refersTo="http://datos.bcn.cl/recurso/persona/5192">ARAYA (don Jaime)</span>.-</p><p/><p> Señor Presidente, pido que solicite el acuerdo del hemiciclo para cerrar el debate, habida consideración de que han hablado más de diez diputados.  </p><p>Hay mucha gente que ha venido de distintas partes de Chile a ver esta votación, por lo que solicito que podamos pasar directamente a la votación del mismo. He dicho.  </p><p/><p>El señor CIFUENTES (Presidente).-</p><p/><p> Todavía quedan catorce parlamentarios inscritos para hacer uso de la palabra.  </p><p>Estamos a punto de terminar el Orden del Día y, por tanto, si no hay acuerdo tendríamos que votar.  </p><p>¿Habría acuerdo para cerrar el debate?  </p><p>No hay acuerdo.  </p><p>Corresponde votar el cierre del debate. </p><p>En votación. </p><p/><p>-Efectuada la votación en forma económica, por el sistema electrónico, dio el siguiente resultado: por la afirmativa, 83 votos; por la negativa, 9 votos. Hubo 7 abstenciones.  </p><p/><p>El señor CIFUENTES (Presidente).-</p><p/><p> Aprobado. </p><p/><p>-Votaron por la afirmativa: </p><p> Acevedo Sáez ,   María Candelaria Coloma Álamos, Juan Antonio Marzán Pinto ,   Carolina Rivas Sánchez ,   Gaspar Ahumada Palma ,   Yovana Cordero Velásquez ,   María Luisa Medina Vásquez ,   Karen Romero Sáez ,   Leonidas Araya Guerrero ,   Jaime Cuello Peña  y   Lillo ,   Luis Alberto Mellado Pino ,   Cosme Romero Talguia ,   Natalia Arce Castro ,   Mónica Delgado Riquelme ,   Viviana Mellado Suazo ,   Miguel Rosas Barrientos ,   Patricio Barchiesi Chávez ,   Chiara Donoso Castro ,   Felipe Meza Pereira ,   José Carlos Sáez Quiroz ,   Jaime Barrera Moreno ,   Boris Flores Oporto ,   Camila Mix Jiménez ,   Claudia Saffirio Espinoza ,   Jorge Barría Angulo ,   Héctor Fries Monleón ,   Lorena Molina Milman ,   Helia Sánchez Ossa ,   Luis Becker Alvear ,   Miguel Ángel Fuenzalida Cobo ,   Juan Morales Maldonado ,   Carla Santibáñez Novoa ,   Marisela Berger Fett ,   Bernardo Gazmuri Vieira ,   Ana María Musante Müller ,   Camila Schalper Sepúlveda ,   Diego Bianchi Chelech ,   Carlos Giordano Salazar ,   Andrés Nuyado Ancapichún ,   Emilia Schneider Videla ,   Emilia Bobadilla Muñoz ,   Sergio González Gatica ,   Félix Ojeda Rebolledo ,   Mauricio Schubert Rubio ,   Stephan Bravo Castro ,   Ana María González Olea ,   Marta Ossandón Irarrázabal ,   Ximena Sepúlveda Soto ,   Alexis Brito Hasbún ,   Jorge González Villarroel ,   Mauro Oyarzo Figueroa ,   Rubén Darío Serrano Salazar ,   Daniela Bugueño Sotelo ,   Félix Hertz Cádiz ,   Carmen Pérez Salinas ,   Catalina Soto Mardones ,   Raúl Bulnes Núñez ,   Mercedes Hirsch Goldschmidt ,   Tomás Pino Fuentes ,   Víctor Alejandro Tapia Ramos ,   Cristián Camaño Cárdenas ,   Felipe Ilabaca Cerda ,   Marcos Pizarro Sierra ,   Lorena Tello Rojas ,   Carolina Cariola Oliva ,   Karol Jiles Moreno ,   Pamela Placencia Cabello ,   Alejandra Ulloa Aguilera ,   Héctor Carter Fernández ,   Álvaro Jouannet Valderrama ,   Andrés Pulgar Castillo ,   Francisco Undurraga Vicuña, Alberto Castillo Rojas ,   Nathalie Jürgensen Rundshagen ,   Harry Ramírez Pascal ,   Matías Urruticoechea Ríos ,   Cristóbal Cicardini Milla ,   Daniella Leiva Carvajal ,   Raúl Raphael Mora ,   Marcia Weisse Novoa, Flor Cid Versalovic ,   Sofía Manouchehri Lobos ,   Daniel Rathgeb Schifferli, Jorge   </p><p/><p>-Votaron por la negativa: </p><p> Astudillo Peiretti ,   Danisa Malla Valenzuela, Luis Naranjo Ortiz ,   Jaime Sagardía Cabezas, Clara Bernales Maldonado ,   Alejandro Mulet Martínez ,   Jaime Riquelme Aliaga ,   Marcela Venegas Salazar ,   Nelson Kaiser Barents-Von Hohenhagen, Johannes       </p><p>-Se abstuvieron: </p><p> Cifuentes Lillo ,   Ricardo Guzmán Zepeda ,   Jorge Muñoz González ,   Francesca Undurraga Gazitúa ,   Francisco Concha Smith ,   Sara Matheson Villán ,   Christian Olivera De La Fuente, Erika  </p><p>El señor CIFUENTES (Presidente).-</p><p/><p> Cerrado el debate. </p><p/><p>-Con posterioridad, la Sala se pronunció sobre este proyecto de ley en los siguientes términos: </p><p/><p>El señor CIFUENTES (Presidente).-</p><p/><p> Corresponde votar en general el proyecto de ley, iniciado en mensaje, que dicta normas sobre protección y fomento de la artesanía, con la salvedad de las disposiciones que requieren quorum especial de aprobación.  </p><p>En votación.  </p><p/><p>-Efectuada la votación en forma económica, por el sistema electrónico, dio el siguiente resultado: por la afirmativa, 107 votos; por la negativa, 3 votos. Hubo 11 abstenciones.  </p><p/><p>El señor CIFUENTES (Presidente).-</p><p/><p> Aprobado. </p><p/><p>-Votaron por la afirmativa: </p><p> Acevedo Sáez ,   María Candelaria Concha Smith ,   Sara Manouchehri Lobos ,   Daniel Raphael Mora ,   Marcia Ahumada Palma ,   Yovana Cordero Velásquez ,   María Luisa Marzán Pinto ,   Carolina Rathgeb Schifferli ,   Jorge Araya Guerrero ,   Jaime Cuello Peña  y   Lillo ,   Luis Alberto Matheson Villán ,   Christian Rey Martínez, Hugo Arce Castro ,   Mónica Delgado Riquelme ,   Viviana Medina Vásquez ,   Karen Riquelme Aliaga ,   Marcela Astudillo Peiretti ,   Danisa Donoso Castro ,   Felipe Mellado Pino ,   Cosme Rivas Sánchez ,   Gaspar Barrera Moreno ,   Boris Durán Salinas ,   Eduardo Mellado Suazo ,   Miguel Romero Talguia ,   Natalia Barría Angulo ,   Héctor Fries Monleón ,   Lorena Melo Contreras ,   Daniel Rosas Barrientos ,   Patricio Becker Alvear ,   Miguel Ángel Fuenzalida Cobo ,   Juan Mix Jiménez ,   Claudia Sáez Quiroz ,   Jaime Bello Campos ,   María Francisca Gazmuri Vieira ,   Ana María Molina Milman ,   Helia Saffirio Espinoza ,   Jorge Beltrán Silva, Juan Carlos Giordano Salazar ,   Andrés Morales Maldonado ,   Carla Sagardía Cabezas ,   Clara Benavente Vergara ,   Gustavo González Gatica ,   Félix Mulet Martínez ,   Jaime Santibáñez Novoa ,   Marisela Berger Fett ,   Bernardo González Olea ,   Marta Muñoz González ,   Francesca Schalper Sepúlveda ,   Diego Bernales Maldonado ,   Alejandro González Villarroel ,   Mauro Musante Müller ,   Camila Schneider Videla ,   Emilia Bianchi Chelech ,   Carlos Guzmán Zepeda ,   Jorge Naranjo Ortiz ,   Jaime Sepúlveda Soto ,   Alexis Bobadilla Muñoz ,   Sergio Hertz Cádiz ,   Carmen Nuyado Ancapichún ,   Emilia Serrano Salazar ,   Daniela Bravo Castro ,   Ana María Hirsch Goldschmidt ,   Tomás Olivera De La Fuente ,   Erika Soto Mardones ,   Raúl Brito Hasbún ,   Jorge Ibáñez Cotroneo ,   Diego Orsini Pascal ,   Maite Sulantay Olivares, Marco Antonio Bugueño Sotelo ,   Félix Ilabaca Cerda ,   Marcos Ossandón Irarrázabal ,   Ximena Tapia Ramos ,   Cristián Bulnes Núñez ,   Mercedes Jiles Moreno ,   Pamela Oyarzo Figueroa ,   Rubén Darío Tello Rojas ,   Carolina Camaño Cárdenas ,   Felipe Jouannet Valderrama ,   Andrés Palma Pérez ,   Hernán Ulloa Aguilera ,   Héctor Cariola Oliva ,   Karol Labra Besserer ,   Paula Pérez Cartes ,   Marlene Undurraga Gazitúa ,   Francisco Carter Fernández ,   Álvaro Lagomarsino Guzmán ,   Tomás Pérez Salinas ,   Catalina Undurraga Vicuña ,   Alberto Castillo Rojas ,   Nathalie Leal Bizama ,   Henry Pino Fuentes ,   Víctor Alejandro Venegas Salazar ,   Nelson Cicardini Milla ,   Daniella Lee Flores ,   Enrique Pizarro Sierra ,   Lorena Von Mühlenbrock Zamora ,   Gastón Cid Versalovic ,   Sofía Leiva Carvajal ,   Raúl Placencia Cabello ,   Alejandra Weisse Novoa ,   Flor Cifuentes Lillo ,   Ricardo Lilayu Vivanco ,   Daniel Pulgar Castillo ,   Francisco Winter Etcheberry ,   Gonzalo Coloma Álamos, Juan Antonio Malla Valenzuela, Luis Ramírez Pascal, Matías     </p><p>-Votaron por la negativa: </p><p>De la Carrera Correa,  Gonzalo Kaiser Barents-Von Hohenhagen ,   Johannes Romero Sáez, Leonidas   </p><p/><p>-Se abstuvieron: </p><p> Araya Lerdo de Tejada ,   Cristián Flores Oporto ,   Camila Moreno Bascur ,   Benjamín Schubert Rubio ,   Stephan Barchiesi Chávez ,   Chiara Jürgensen Rundshagen ,   Harry Ojeda Rebolledo ,   Mauricio Trisotti Martínez ,   Renzo Del Real Mihovilovic ,   Catalina Meza Pereira ,   José Carlos Sánchez Ossa, Luis  </p><p>El señor CIFUENTES (Presidente).-</p><p/><p> Corresponde votar en general los artículos 6, 7, inciso primero; 8, inciso primero; 16, 20, numeral 2 y 22, inciso primero, que requieren para su aprobación el voto favorable de 78 diputadas y diputados en ejercicio, por tratarse de normas de rango orgánico constitucional.  </p><p>En votación.  </p><p/><p>-Efectuada la votación en forma económica, por el sistema electrónico, dio el siguiente resultado: por la afirmativa, 80 votos; por la negativa, 17 votos. Hubo 24 abstenciones.  </p><p/><p>El señor CIFUENTES (Presidente).-</p><p/><p> Aprobado. </p><p/><p>-Votaron por la afirmativa: </p><p> Acevedo Sáez ,   María Candelaria Cuello Peña  y   Lillo ,   Luis Alberto Manouchehri Lobos ,   Daniel Romero Talguia ,   Natalia Araya Guerrero ,   Jaime Delgado Riquelme ,   Viviana Marzán Pinto ,   Carolina Rosas Barrientos ,   Patricio Arce Castro ,   Mónica Donoso Castro ,   Felipe Medina Vásquez ,   Karen Sáez Quiroz ,   Jaime Astudillo Peiretti ,   Danisa Fries Monleón ,   Lorena Mellado Pino ,   Cosme Saffirio Espinoza ,   Jorge Barrera Moreno ,   Boris Gazmuri Vieira ,   Ana María Melo Contreras ,   Daniel Sagardía Cabezas ,   Clara Barría Angulo ,   Héctor Giordano Salazar ,   Andrés Mix Jiménez ,   Claudia Santibáñez Novoa ,   Marisela Bello Campos ,   María Francisca González Gatica ,   Félix Molina Milman ,   Helia Schneider Videla ,   Emilia Benavente Vergara ,   Gustavo González Olea ,   Marta Mulet Martínez ,   Jaime Sepúlveda Soto ,   Alexis Bernales Maldonado ,   Alejandro Guzmán Zepeda ,   Jorge Musante Müller ,   Camila Serrano Salazar ,   Daniela Bianchi Chelech ,   Carlos Hertz Cádiz ,   Carmen Naranjo Ortiz ,   Jaime Soto Mardones ,   Raúl Bravo Castro ,   Ana María Hirsch Goldschmidt ,   Tomás Nuyado Ancapichún ,   Emilia Tapia Ramos ,   Cristián Brito Hasbún ,   Jorge Ibáñez Cotroneo ,   Diego Orsini Pascal ,   Maite Tello Rojas ,   Carolina Bugueño Sotelo ,   Félix Ilabaca Cerda ,   Marcos Palma Pérez ,   Hernán Ulloa Aguilera ,   Héctor Bulnes Núñez ,   Mercedes Jiles Moreno ,   Pamela Pérez Salinas ,   Catalina Undurraga Gazitúa ,   Francisco Camaño Cárdenas ,   Felipe Jouannet Valderrama ,   Andrés Pizarro Sierra ,   Lorena Undurraga Vicuña ,   Alberto Cariola Oliva ,   Karol Lagomarsino Guzmán ,   Tomás Placencia Cabello ,   Alejandra Venegas Salazar, Nelson Castillo Rojas ,   Nathalie Leal Bizama Henry Pulgar Castillo ,   Francisco Videla Castillo ,   Sebastián Cicardini Milla ,   Daniella Lee Flores ,   Enrique Ramírez Pascal ,   Matías Von Mühlenbrock Zamora ,   Gastón Cifuentes Lillo ,   Ricardo Leiva Carvajal ,   Raúl Riquelme Aliaga ,   Marcela Weisse Novoa ,   Flor Coloma Álamos, Juan Antonio Malla Valenzuela, Luis Rivas Sánchez ,   Gaspar Winter Etcheberry, Gonzalo    </p><p>-Votaron por la negativa: </p><p> Becker Alvear ,   Miguel Ángel Durán Salinas ,   Eduardo Lilayu Vivanco ,   Daniel Raphael Mora ,   Marcia Beltrán Silva, Juan Carlos Flores Oporto ,   Camila Mellado Suazo ,   Miguel Rathgeb Schifferli ,   Jorge Berger Fett ,   Bernardo González Villarroel ,   Mauro Morales Maldonado ,   Carla Rey Martínez, Hugo Cordero Velásquez ,   María Luisa Kaiser Barents-Von Hohenhagen ,   Johannes Ossandón Irarrázabal ,   Ximena Romero Sáez, Leonidas   De la Carrera Correa, Gonzalo       </p><p>-Se abstuvieron: </p><p> Ahumada Palma ,   Yovana Concha Smith ,   Sara Meza Pereira ,   José Carlos Pino Fuentes ,   Víctor Alejandro Araya Lerdo de Tejada ,   Cristián Del  Real   Mihovilovic ,   Catalina Moreno Bascur ,   Benjamín Sánchez Ossa ,   Luis Barchiesi Chávez ,   Chiara Fuenzalida Cobo ,   Juan Muñoz González ,   Francesca Schalper Sepúlveda ,   Diego Bobadilla Muñoz ,   Sergio Jürgensen Rundshagen ,   Harry Ojeda Rebolledo ,   Mauricio Schubert Rubio ,   Stephan Carter Fernández ,   Álvaro Labra Besserer ,   Paula Olivera De La Fuente ,   Erika Sulantay Olivares, Marco Antonio Cid Versalovic ,   Sofía Matheson Villán ,   Christian Pérez Cartes ,   Marlene Trisotti Martínez, Renzo  </p><p>El señor CIFUENTES (Presidente).-</p><p/><p> Por no haber sido objeto de indicaciones, el proyecto queda aprobado también en particular, en los términos sugeridos por las comisiones de Cultura y de Hacienda, dejándose constancia de haberse alcanzado el quorum constitucional requerido. </p><p>Despachado el proyecto al Senado. </p><p>Ha concluido el tiempo del Orden del Día. </p><p/><p/></span></div>
+            <table style="width: 100%;" class="tableheader">
+                <tr>
+                    <td>
+                        <div style="mso-element:header" id="MyHeaderdiv_1pos4">
+                            <table style="width: 100%;">
+                                <tr>
+                                    <td style="text-align: left;width: 50%">
+                                        Historia  de la Ley N° 21.788
+                                    </td>
+                                    <td style="text-align: right;width: 50%">
+                                        <span style="mso-tab-count:2"></span>
+                                        Página <span style="mso-field-code: PAGE ">
+                                            <span style="mso-no-proof:yes">
+
+                                            </span>
+                                            from
+                                            <span style="mso-field-code: NUMPAGES ">
+
+                                            </span>
+                                        </span>
+                                    </td>
+                                </tr>
+                            </table>
+                            <hr>
+                            <p class="centro">
+                                
+                                     Discusión en Sala
+                                
+                            </p>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+   
+
+
+</body></html>
