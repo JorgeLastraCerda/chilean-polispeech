@@ -1,0 +1,24 @@
+{
+  "reason": "No non-empty transcript payload for any valid candidate",
+  "law_number": "21.472",
+  "law_title": "1.2. Oficio Indicaciones del Ejecutivo (31-05-2022)",
+  "attempt_count": 2,
+  "attempts": [
+    {
+      "section_key": "1-5",
+      "section_num": "1.5",
+      "event_date": "2022-06-07",
+      "stage_text": "Primer Trámite Constitucional: Cámara de Diputados",
+      "paragraph_count": 0,
+      "raw_response_preview": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?><xjx><cmd n=\"js\">$('.modal-body').html('');</cmd><cmd n=\"js\"><![CDATA[$('.modal-body').html('<div class=\"item\" fecha=\"2022-06-07\" parteDocumento=\"http://datos.bcn.cl/recurso/cl/documento/698325/seccion/akn698325-po1-ds157\" refersTo=\"http://datos.bcn.cl/ontologies/bcn-bills#DiscusionGeneral\" tipoDocumento=\"http://datos.bcn.cl/ontologies/bcn-resources#DiarioDeSesion\" tramitacion=\"http://datos.bcn.cl/recurso/cl/proyecto-de-ley/14991-08/tramitacion/24\" uriDocumento=\"http://datos.bcn.cl/recurso/cl/documento/698325\"><h2 id=\"h2_1_5\" numero=\"1.5. \">1.5. Discusión en Sala</h2><p class=\"sub-headding\">Fecha 07 de junio, 2022. Diario de Sesión en Sesión 31. Legislatura 370. Discusión General. Se aprueba en general y particular.</p><span><p>          CREACIÓN DE F"
+    },
+    {
+      "section_key": "3-1",
+      "section_num": "3.1",
+      "event_date": "2022-07-13",
+      "stage_text": "Tercer Trámite Constitucional: Cámara de Diputados",
+      "paragraph_count": 0,
+      "raw_response_preview": "<?xml version=\"1.0\" encoding=\"UTF-8\" ?><xjx><cmd n=\"js\">$('.modal-body').html('');</cmd><cmd n=\"js\"><![CDATA[$('.modal-body').html('<div class=\"item\" fecha=\"2022-07-13\" parteDocumento=\"http://datos.bcn.cl/recurso/cl/documento/699438/seccion/akn699438-po1-ds166\" refersTo=\"http://datos.bcn.cl/ontologies/bcn-bills#DiscusionUnica\" tipoDocumento=\"http://datos.bcn.cl/ontologies/bcn-resources#DiarioDeSesion\" tramitacion=\"http://datos.bcn.cl/recurso/cl/proyecto-de-ley/14991-08/tramitacion/23\" uriDocumento=\"http://datos.bcn.cl/recurso/cl/documento/699438\"><h2 id=\"h2_3_1\" numero=\"3.1. \">3.1. Discusión en Sala</h2><p class=\"sub-headding\">Fecha 13 de julio, 2022. Diario de Sesión en Sesión 46. Legislatura 370. Discusión única. Se aprueban modificaciones.</p><span><p>          CREACIÓN DE FONDO DE ESTA"
+    }
+  ]
+}
