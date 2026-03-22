@@ -5,14 +5,11 @@ import sqlite3
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from pathlib import Path
 
-#from wordcloud import WordCloud #not used yet!!!
-
 ####### Title configuration
 
 # title and description
 st.set_page_config(
     page_title="Chilean PoliSpeech Dashboard",
-    page_icon=":bar_chart:",
     layout="wide"
     )
 st.subheader("An interactive dashboard to explore speech patterns of Chilean deputies")
@@ -24,10 +21,7 @@ st.markdown("Use the sidebar to control the analysis methods and parameters. And
 
 ####### LOADING DATA
 
-APP_DIRECTORY = Path(__file__).parent
-PROJECT_ROOT = APP_DIRECTORY.parent
-DB_PATH = PROJECT_ROOT / "data" / "chilean_polispeech2.db"
-#"notebooks\\intake\\chilean_polispeech.db"
+DB_PATH = Path("data") / "chilean_polispeech.db"
 
 @st.cache_data # this will cache the results of the function, meaning it won't load it again.
 def load_data(db_path):
@@ -64,7 +58,9 @@ def load_data(db_path):
     LEFT JOIN districts AS dist
         ON dip.dipid = dist.dipid
 """, con)
+    # the date(m.date_end) >= date('2026-03-10') condition is to get the current (last) party of each deputy
     con.close()
+
     # prepare datasets
     analysis_df["discussion_date"] = pd.to_datetime(analysis_df["discussion_date"])
 
@@ -156,24 +152,6 @@ slice_df = analysis_df.copy()
 
 
 ######## ANALYSIS
-
-## corpus stats, to have a general idea of the size of the corpus we are working with.
-
-def corpus_stats(df, text_col="speech_clean"):
-    """
-    Print basic statistics about the corpus.
-    """
-    word_counts = df[text_col].str.len()
-    
-    total_words = df[text_col].str.split().str.len().sum()
-
-    return {
-        "n_speeches": len(df),
-        "n_unique_speakers": df["full_name"].nunique(),
-        "total_words": int(word_counts.sum()),
-        "total_laws": df["law_number"].nunique(),
-}
-
 
 ## top terms, this allows to see the most frequent words and n-grams
 
@@ -369,7 +347,7 @@ if query_text.strip():
     query_terms = query_text.lower().split()
 
     # select the text column to search in
-    text_series = slice_df[text_col]
+    text_series = slice_df[text_col].str.lower() # make it lowercase to make the search case-insensitive
 
     # AND mode
     if query_mode == "AND":
@@ -400,6 +378,7 @@ if len(slice_df) == 0:
 if len(slice_df) < min_df:
     st.warning("The current corpus slice has fewer speeches than the minimum document frequency required for the analysis.")
     st.stop()
+
 
 ######## (actual) Corpus metrics, so we can have an idea of the size of the corspus we are working with
 def corpus_stats(df, text_col="speech_clean"):
