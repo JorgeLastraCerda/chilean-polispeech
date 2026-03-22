@@ -1,0 +1,863 @@
+Fecha 10 de julio, 2023. Diario de Sesión en Sesión 52. Legislatura 371. Discusión General. Se aprueba en general y particular con modificaciones.
+
+RECONOCIMIENTO DE ACCESO A INTERNET COMO SERVICIO PÚBLICO DE TELECOMUNICACIONES (SEGUNDO TRÁMITE CONSTITUCIONAL. BOLETÍN N° 11632-15)
+
+El señor TAPIA (Vicepresidente accidental).-
+
+En el Orden del Día, corresponde tratar el proyecto ley, en segundo trámite constitucional, iniciado en mensaje, para reconocer el acceso a internet como un servicio público de telecomunicaciones, correspondiente a boletín Nº 11632-15.
+
+Para la discusión de este proyecto se otorgarán tres minutos a cada diputado y diputada que se inscriba para hacer uso de la palabra.
+
+Rinde el nuevo primer informe de la Comisión de Obras Públicas, Transportes y Telecomunicaciones el señor Cosme Mellado .
+
+Antecedentes:
+
+-Proyecto del Senado, sesión 21ª de la legislatura 369ª, en martes 20 de abril de 2021. Documentos de la Cuenta N° 13.
+
+-Informe de la Comisión de Obras Públicas, Transportes y Telecomunicaciones, sesión 49ª de la presente legislatura, en lunes 3 de julio de 2023. Documentos de la Cuenta N° 24.
+
+El señor TAPIA (Vicepresidente accidental).-
+
+Tiene la palabra el diputado informante.
+
+El señor MELLADO, don Cosme (de pie).-
+
+Señor Presidente, honorable Cámara, en nombre de la Comisión de Obras Públicas, Transportes y Telecomunicaciones, paso a informar sobre el proyecto de ley, en segundo trámite constitucional y primero reglamentario, iniciado en mensaje de su excelencia la entonces Presidenta de la República señora Michelle Bachelet , con urgencia calificada de simple, para reconocer el acceso a internet como un servicio público de telecomunicaciones.
+
+De acuerdo con lo prescrito en el artículo 304 del Reglamento de la Corporación, cabe consignar lo siguiente.
+
+Constancias reglamentarias
+
+Idea matriz o fundamental del proyecto
+
+Reconocer el derecho de acceso a internet como parte de los servicios públicos de telecomunicaciones, elevando aquel como objeto de estos últimos, especificando la obligatoriedad de provisión de tales servicios y con ello de internet, en el plazo de seis meses después de la fecha de la solicitud que el interesado presente a la empresa respectiva, salvo que se produjere un caso fortuito o de fuerza mayor que impida al concesionario atender la petición que se le formula.
+
+Síntesis del debate que hubo durante la discusión general y particular
+
+Teniendo en vista las consideraciones y argumentos contenidos en el proyecto del boletín Nº 11632-15, y lo expresado por el subsecretario de Telecomunicaciones e invitados, la señora diputada y los señores diputados fueron de parecer de aprobar la idea de legislar sobre la materia.
+
+Señor Presidente, la comisión se manifestó plenamente de acuerdo con el eje fundamental del proyecto, que estaba en considerar internet como un servicio público y que los concesionarios debían dar el máximo de cobertura posible dentro de sus posibilidades técnicas y financieras, disponiendo la subsecretaría de las herramientas necesarias para que los concesionarios puedan cumplir con sus obligaciones.
+
+Por otra parte, también se inclinó a que las multas, en caso de infracción, se aumentaran, así como que de lo que se trataba, en definitiva, era de establecer una normativa y arquitectura que esté en función de la calidad del servicio y de acceso pleno a los ciudadanos.
+
+Se explicó que sobre las comunidades de telecomunicaciones la ley actual la contempla, pero pensadas para el mundo telefónico; que ahora se trataba de dotar a una organización con un capital social y organizativo capaz de distribuir y autoprestarse el servicio sin convertirse en un ISP. No solo había que pensar en un operador grande, ya que existen otros doscientos operadores de internet.
+
+Señor Presidente, sobre el aspecto de neutralidad tecnológica y la convergencia de servicios, esto es la forma en que el concesionario y el usuario pueden desplegar tecnología e infraestructura sin una en particular, no hubo plena coincidencia de planteamientos; sin embargo, se incorpora la neutralidad tecnológica, con ciertas condiciones de protección.
+
+La aplicación y desarrollo de estos principios se establecerá en un instrumento denominado Plan Nacional Digital, a cargo de la Subsecretaría, que contendrá, a lo menos, los siguientes lineamientos:
+
+a) Política de uso del espectro radioeléctrico, velando por su uso eficiente y convergente. b) Política nacional de inversiones, fomentando, en alianzas público-privadas, la cobertura
+
+de los servicios a nivel nacional.
+
+c) Política de conectividad, velando por promover la conectividad digital progresiva, en condiciones de calidad, a todos los habitantes del territorio nacional.
+
+d) Política de ciberseguridad en el ámbito de las telecomunicaciones.
+
+e) Política de accesibilidad universal y esencialidad del servicio, estableciendo mecanismos de promoción o subsidios, a fin de proveer progresivamente a todos los habitantes del territorio los servicios de telecomunicaciones.
+
+f) Política de calidad de servicios, fijando estándares de calidad para la prestación de los servicios para todo el territorio nacional.
+
+g) Política de promoción e investigación, fomentando en el sector la investigación, la innovación y la formación de capital humano especializado.
+
+Señor Presidente, se estimó, no obstante, que se estaba limitando el principio de neutralidad tecnológica, que ha sido piedra angular del desarrollo de las tecnologías que han existido en el país. En la práctica, se estaba dando la facultad de dictar un plan nacional digital sin que sea visado por la Contraloría General de la República; o sea, que no se va a requerir la visación de nadie, estando en presencia no solo de políticas de gobierno, sino de políticas de Estado.
+
+Sobre el término “recuperación de los recursos escasos”, se plantearon dudas, ya que esos recursos que se pretende recuperar son de alguien, y ese recuperar daría paso a una caducidad o expropiación. Se explicó que esto solo procede en caso de asignarse el espectro radioeléctrico para cierto fin y que este no sea utilizado. En estos casos sí se puede caducar. Además, la facultad ya existe en la ley, por lo que la Subsecretaría puede caducar concesiones cuando no se utiliza el espectro radioeléctrico.
+
+Respecto de la posibilidad de que en los diversos procesos se notifique todo a través de medios electrónicos, y de que una parte de la población tiene un acceso más difícil a ello, sobre todo pensando en los adultos mayores de sectores rurales, se explicó que no se eliminarán las otras formas de notificación.
+
+Sobre las áreas mínimas de servicio, se explicó que el hecho de que el área de cobertura fuera una comuna resultaba muy oneroso para las empresas, razón por la cual se buscaron alternativas intermedias, ya que una manzana, que era el área establecida en la indicación original, hacía ineficaz la ley.
+
+Sin embargo, se planteó la duda de que las grandes compañías telefónicas van a quedarse con todas las zonas urbanas y no van a querer ir a los sectores rurales. El 2 por ciento va a favorecer mucho a las grandes empresas, más que a las pequeñas. Todas las zonas censales urbanas van a tener internet, pero las rurales van a depender de que una pequeña compañía tenga interés en ir a ellas. Lo ideal sería que el Estado pudiera ayudar con la instalación de antenas para asegurar el acceso a internet, ya que, como se estructuró, el proyecto resulta perjudicial para quienes viven en sectores rurales apartados, cuyas zonas censales no van a generar el interés de las empresas por participar en la respectiva licitación.
+
+Por último, sobre las multas establecidas en el proyecto de ley, se explicó que en la Sala se presentaría una indicación que establece niveles de gravedad del hecho que se sanciona, y su correspondiente pena, de modo que este nivel de multas no resulte arbitrario.
+
+El proyecto fue aprobado en general por unanimidad. Votaron a favor la entonces diputada señora Jenny Álvarez y los entonces diputados señores Iván Flores , Javier Hernández , Iván Norambuena , Leopoldo Pérez y René Manuel García , y los diputados señores Félix González y Marcos Ilabaca .
+
+Es todo cuanto puedo informar.
+
+He dicho.
+
+El señor TAPIA (Vicepresidente accidental).-
+
+En discusión el proyecto.
+
+Ha solicitado hacer uso de la palabra el ministrode Transportes y Telecomunicaciones, señor Juan Carlos Muñoz .
+
+Tiene la palabra, señor ministro.
+
+El señor MUÑOZ (ministro de Transportes y Telecomunicaciones).-
+
+Señor Presidente, por su intermedio saludo nuevamente a las señoras diputadas y a los señores diputados presentes.
+
+Esta vez me dirijo a ustedes para presentarles y pedirles el apoyo a un proyecto de ley largamente sentido por nuestra población. Con este proyecto se busca declarar el acceso a internet como un servicio público de telecomunicaciones. La declaración de internet como un servicio público es tan relevante que este proyecto fue presentado durante el segundo gobierno de la Presidenta Bachelet y tramitado, en su primer trámite constitucional, durante el gobierno del Presidente Piñera. Se trata de un proyecto que ha avanzado con consensos transversales sin distinción.
+
+Tal como nos forzó a descubrir la pandemia, el servicio de internet es fundamental para nuestras comunicaciones y para el desarrollo y productividad del país. Pese a lo anterior, en medio de la revolución de las telecomunicaciones, todavía existen habitantes del país que no cuentan con acceso a internet, o que cuentan con un acceso de mala calidad o bien que no pueden acceder a este servicio porque no pueden pagarlo. Mientras nuestro país despliega la infraestructura para actualizar la tecnología de acceso a internet a través de fibra óptica y la red celular a 5G, tenemos compatriotas que están completa o significativamente fuera de esta modernidad. Este proyecto de ley acelerará la opción para que muchas de esas personas mejoren sus condiciones de vida, estableciendo zonas de concesión obligatorias para las compañías de telecomunicaciones.
+
+Así, durante la tramitación de este proyecto y gracias al trabajo en conjunto con la Comisión de Obras Públicas, Transportes y Telecomunicaciones de esta honorable Cámara, hemos podido avanzar en las siguientes mejoras al proyecto que recibimos del Senado:
+
+Primero, profundizamos la obligación de las concesionarias de telecomunicaciones de dar cobertura de internet dentro de sus áreas de concesión. Así, si un concesionario cuenta con una concesión en una zona urbana, tendrá la obligación de entregar el servicio en toda el área censal, esto es, varias cuadras a la redonda. Y si cuenta con una concesión en una zona rural, tendrá la obligación de prestar el servicio en toda la entidad que cubra esa concesión.
+
+Segundo, se creó la facultad de subsidiar a demanda por medio del Fondo de Desarrollo de las Telecomunicaciones. Actualmente, este fondo solo está facultado para subsidiar la oferta por medio del subsidio para el despliegue de infraestructura. Con esta indicación se permitirá a este fondo subsidiar también la cuenta de internet de aquellos hogares que no pueden acceder a internet por no poder pagar el servicio.
+
+Tercero, se introducen otras mejoras que actualizan la Ley General de Telecomunicaciones en el sentido de adecuarla a la reciente regla de modernización del Estado. También se introducen reglas que fortalecen las facultades fiscalizadoras de la Subtel.
+
+Por lo anterior, pido a la Sala su apoyo y que vote a favor en general este proyecto, a fin de poder avanzar en el anhelo de que internet sea reconocido como un servicio público y así sean más los habitantes del país que puedan acceder a esta tecnología habilitante.
+
+Muchas gracias.
+
+He dicho.
+
+El señor TAPIA (Vicepresidente accidental).-
+
+Tiene la palabra la diputada Carolina Marzán .
+
+La señora MARZÁN (doña Carolina).-
+
+Señor Presidente, por su intermedio saludo al señor ministro.
+
+En abril del año 2020, recién iniciada la pa ndemia por covid-19, los sectores rurales de Ocoa, El Romeral y Tres Esquinas, de la comuna de Hijuelas, del distri to que represento, no contaban con antenas suficientes para recibir señal de internet y menos aún conexión de banda ancha, lo que perjudicaba, incluso, a las escuelas rurales de la zona.
+
+Si bien a la fecha la conectividad ha mejorado considerablemente, esto vino a desnudar el abandono que sufren las comunas rurales de nuestro país por falta de acceso a internet.
+
+Aunque la Organización Mundial de la Salud declaró el fin de la emergencia sanitaria por covid-19, dicha situación nos hace recordar cientos de situaciones vividas y de enseñanzas, lecciones y reflexiones aprendidas. Una de ellas es que ante la incomunicación física del ser humano, la tecnología se convierte en un aliado emocional para recuperar los espacios perdidos, creando sistemas para acercarnos, pero que requieren indispensablemente el acceso a internet.
+
+Por lo mismo, el presente proyecto de ley, que modifica la Ley General de Telecomunicaciones, se hace cargo de esta urgente necesidad por la vía de considerar como servicio público de telecomunicaciones el acceso a internet, razón por la cual deberá mejorarse la conectividad en las zonas donde más escasea este servicio, como son las zonas rurales.
+
+Para que exista igualdad entre los habitantes, debemos ser capaces de conectar todos los rincones del país, ya que, como bien se señala en la iniciativa, el internet se ha convertido en un servicio básico, pues se utiliza para gestiones que van desde solicitar una hora para ir a una consulta médica hasta hacer compras de alimentos. En ese camino avanza este proyecto de ley. Por eso, lo vamos a apoyar.
+
+He dicho.
+
+-Aplausos.
+
+El señor TAPIA (Vicepresidente accidental).-
+
+Tiene la palabra la diputada Marta Bravo .
+
+La señora BRAVO (doña Marta).-
+
+Señor Presidente, este proyecto tiene por objeto reconocer el derecho al acceso a internet como parte de uno de los servicios públicos de telecomunicaciones, lo cual me parece indispensable para erradicar la enorme brecha digital que existe actualmente en nuestro país, la cual afecta especialmente a sectores rurales aislados y a varias comunas de mi región. Es indudable que el acceso a esta plataforma y la entrega de herramientas para su manejo son fundamentales para que todos puedan optar a los beneficios que trae consigo esta tecnología.
+
+Todos sabemos lo importante que son las telecomunicaciones actualmente, lo cual quedó más que claro con la pandemia por covid-19. Sin el internet habría sido imposible comunicarnos, educarnos y trabajar.
+
+Garantizar este derecho supone demostrar que como Poder Legislativo estamos trabajando para eliminar las brechas en materia de conectividad. Por eso, es necesario que todos le demos nuestro apoyo a este proyecto.
+
+Desde ya voy a apoyar esta iniciativa, pues sé que muchas familias de Ñuble no tienen acceso a internet, lo cual se transforma en una brecha que inhibe el desarrollo de mi región. A su vez, hago un llamado al gobierno para que vaya a Ñuble y pueda darse cuenta de la mala calidad de la conectividad en las zonas rurales. Los habitantes del distrito al cual represento con mucho orgullo en esta Cámara necesitan su atención cuanto antes en diferentes materias y la brecha digital no se queda fuera.
+
+He dicho.
+
+El señor TAPIA (Vicepresidente accidental).-
+
+Tiene la palabra la diputada Clara Sagardia .
+
+La señora SAGARDIA (doña Clara).-
+
+Señor Presidente, por su intermedio, saludo al ministro de Transportes y Telecomunicaciones, que se ha preocupado mucho de llevar adelante este proyecto.
+
+Quiero manifestar que votaré a favor de esta iniciativa en razón de que es tremendamente urgente, necesario e importante garantizar a todas las chilenas y a todos los chilenos el acceso a internet como un servicio público, pues muchos ciudadanos, en especial en zonas como las que se encuentran en mi distrito, el N° 21, de las provincias de Arauco y del Biobío, y la comuna de Lota, cuentan con un servicio de internet que no es el mejor, lo que dificulta el acceso a la comunicación.
+
+No solo me refiero al servicio de personas naturales o familias, sino incluso a centros de salud y de educación que no cuentan con internet, lo que dificulta la atención de salud y la educación de los vecinos y vecinas, pues aún están con el registro manual, situación que para muchos hoy es impensada de acuerdo con los avances tecnológicos que existen.
+
+Hay muchas comunas que no tienen acceso a internet por diversas razones, pero con este proyecto nuestro gobierno se hace cargo de esta situación tan compleja para muchas personas, al generar y garantizar un acceso igualitario. Este proyecto profundiza la obligación de las empresas concesionarias de servicio público de telecomunicaciones de entregar el servicio a los interesados que lo soliciten, ya que ahora dicho servicio será público.
+
+Otro aspecto importante es que se crea la facultad de subsidiar la demanda del servicio público de acceso a internet a través del Fondo de Desarrollo de las Telecomunicaciones, para efectos de garantizar el acceso a todas las ciudadanas y todos los ciudadanos.
+
+Por las razones señaladas, votaré a favor este proyecto.
+
+He dicho.
+
+El señor TAPIA (Vicepresidente accidental).-
+
+Tiene la palabra el diputado Bernardo Berger .
+
+El señor BERGER.-
+
+Señor Presidente, por su intermedio, saludo al ministro de Transportes y Telecomunicaciones, que está presente en esta sesión.
+
+La pandemia de la covid-19 vino a cambiar el paradigma de internet a nivel mundial, pasando de ser un servicio accesible solo para quienes puedan costearlo a un servicio de primera necesidad. En esta nueva realidad pospandemia, contar con un servicio de internet es una prioridad, lo que quedó más que demostrado con el teletrabajo y con la educación telemática que se desarrolló durante la pandemia.
+
+Valoro los principios que incorpora esta iniciativa a la política pública, con el objeto de contar con un servicio universal, continuo, con neutralidad tecnológica y en que se comparta la infraestructura para facilitar que el servicio llegue a cada rincón del país, sobre todo a regiones donde la conectividad siempre ha presentado problemas o inconvenientes.
+
+Destaco también el hecho de que el proyecto incorpore elementos importantes, como las sanciones contra quienes atenten contra las antenas o estructuras a través de las cuales se presta el servicio, los que, a partir de esta futura ley, tendrán una condena de cárcel que puede llegar hasta los cinco años.
+
+Destaco también la disposición que habilitará al Presidente de la República para incorporar una glosa en el proyecto de ley de presupuestos del sector público para entregar un subsidio a los hogares más vulnerables para acceder a internet.
+
+He dicho.
+
+El señor TAPIA (Vicepresidente accidental).-
+
+Tiene la palabra el diputado Daniel Melo .
+
+El señor MELO.-
+
+Señor Presidente, junto con saludar al ministro, quiero reconocer el esfuerzo de la entonces Presidenta Michelle Bachelet y de su gobierno respecto de esta importante iniciativa, que, sin duda, para aquellos que representamos sectores o territorios en la zona sur de Santiago, como las comunas de El Bosque, La Cisterna, Lo Espejo, Pedro Aguirre Cerda y San Miguel , garantiza el derecho al acceso a internet, toda vez que en buena parte de estas comunas encontramos los denominados barrios rojos, respecto de los cuales, no solamente en pandemia, sino en la cotidianidad, hay una queja recurrente de nuestros vecinos y vecinas en relación con la posibilidad de acceder a una internet de calidad, en definitiva, a tener cierto acceso a este derecho que hoy, sin duda, es parte de los mínimos sociales, toda vez que las sociedades modernas avanzan hacia una sociedad de la información y el conocimiento.
+
+Es por eso que saludo esta iniciativa y creo que es muy relevante, porque, entre otras cosas, avanza en enfrentar los problemas de la brecha digital y el acceso a la información. En definitiva, de esta forma vamos construyendo un país más justo e igualitario.
+
+También es importante, tal como se ha señalado en esta Sala, todo el ámbito de sanciones que se establecen para aquellos que afectan las infraestructuras. Pero también es importante la necesidad de avanzar en que el Estado cumpla un rol que vaya garantizando el acceso a este derecho.
+
+Anuncio que la bancada del Partido Socialista votará a favor esta iniciativa, y también quiero reconocer que el gobierno del Presidente Gabriel Boric, a través de su ministro de Transportes y Telecomunicaciones, haya podido avanzar en esta materia y podamos contribuir a promulgar esta futura ley.
+
+He dicho.
+
+El señor TAPIA (Vicepresidente accidental).-
+
+Tiene la palabra la diputada Marisela Santibáñez .
+
+La señorita SANTIBÁÑEZ (doña Marisela).-
+
+Señor Presidente, es nuestro deber como Estado entregar las condiciones y proveer a la población de los elementos que resultan indispensables para el desarrollo y el crecimiento de nuestro país. Con esto me refiero a las cosas básicas. Cualquier persona, por dignidad, debiera tener agua, luz, acceso a la salud, educación, entre otras cosas.
+
+En el Chile pospandemia quedó clarísima la importancia de internet en la vida de todas las personas: de los niños, niñas y adolescentes, de los hombres, de las mujeres y de los mayores. Hubiese sido impensado resistir emocionalmente las cuarentenas decretadas sin la posibilidad de hablar con nuestros seres queridos, amigos y familiares a través de dispositivos móviles o de computadoras que nos permitían no solo escuchar su voz, sino también verlos, creando la sensación de que estamos juntos.
+
+Al momento de comenzar la tramitación de este proyecto, la mitad de los hogares de Chile contaba con una conexión a internet. Hoy, esa cifra ha aumentado, pero aún no logramos que avance hacia el 75 por ciento de conexión estable. Claramente, encontramos un aumento de conexión a través de teléfonos móviles, pero estos dispositivos no permiten aprovechar al máximo las oportunidades en línea.
+
+La diferencia entre quienes tienen internet y quienes carecen de las aptitudes necesarias para manejarse en internet, así como los dispositivos para hacerlo, se denomina brecha digital. Estas brechas digitales reflejan divisiones socioeconómicas muy amplias entre ricos y pobres, hombres y mujeres, ciudades y zonas rurales, y entre quienes han recibido una educación y quienes carecen de instrucción.
+
+Por ejemplo, el 81 por ciento de los habitantes de los países desarrollados usan internet más del doble de la proporción de los países en desarrollo, que utilizan el 40 por ciento, según datos de la Unicef.
+
+Para los niños desfavorecidos, como los que viven con discapacidades, la conectividad puede significar la diferencia entre la exclusión social y la igualdad de oportunidades. Para los niños en tránsito migrante puede significar un viaje más seguro, la oportunidad de mantenerse en contacto con los miembros de su familia y mayores posibilidades de encontrar empleo y oportunidades educativas en un país extranjero. A medida que los niños llegan a una edad adulta y entran al mundo del trabajo, la conectividad es importante.
+
+Me salto parte de mi discurso para decirle al ministro -por su intermedio, señor Presidente-, que considero que es un excelente proyecto y lo apoyaré absolutamente. Pero esto tiene mucho que ver también con la ley de extraviados, que todavía no tiene su reglamento. Digo esto, porque la conectividad, la geolocalización se relacionan bastante con la internet.
+
+Le agradezco el proyecto, ministro.
+
+He dicho.
+
+El señor TAPIA (Vicepresidente accidental).-
+
+Tiene la palabra la diputada Sara Concha .
+
+La señorita CONCHA (doña Sara) .-
+
+Señor Presidente, en un mundo cada vez más interconectado y digitalizado, es fundamental garantizar el acceso equitativo y universal a internet a todos los ciudadanos.
+
+El internet se ha convertido en una herramienta esencial en nuestra sociedad, ya que no solo es una fuente inagotable de información y conocimiento, sino que también facilita la comunicación, el acceso a servicios básicos, el comercio electrónico, la educación a distancia y muchas otras oportunidades que contribuyen al desarrollo humano y social.
+
+Sin embargo, debemos reconocer que existen desigualdades significativas en el acceso a internet en nuestro país. Hay comunidades rurales -soy de la región de Ñuble, cuyas comunas están bastante ruralizadasque han sido marginadas en este aspecto, ya que algunas carecen de una conexión adecuada y otras no tienen en absoluto acceso a internet. Esto crea una brecha digital que limita la oportunidad y el progreso de aquellos que se encuentran en desventaja.
+
+Al reconocer el acceso a internet como un servicio público de telecomunicaciones estaremos sentando las bases para garantizar el acceso equitativo y universal a esta herramienta vital. Esto implica que el Estado debe asumir la responsabilidad de promover y asegurar la disponibilidad de conexión de calidad en todo el territorio nacional, sin importar la ubicación geográfica o el nivel socioeconómico de los ciudadanos.
+
+Al hacer de internet un servicio público también estaremos estableciendo regulaciones claras para proteger los derechos de los usuarios. Esto incluye la neutralidad de la red, que garantiza un acceso igualitario a toda la información y evita la discriminación en la velocidad o calidad de la conexión en función de intereses particulares.
+
+Reconocer el acceso a internet como un servicio público de telecomunicaciones también nos brindará la oportunidad de promover la inclusión digital y cerrar la brecha existente. Se podrán implementar programas y políticas que faciliten el acceso a equipos y tecnologías, así como ofrecer capacitación y educación en habilidades digitales para aquellos que lo necesitan.
+
+Además, el acceso a internet como un servicio público de telecomunicaciones fomentará la innovación, el emprendimiento y el desarrollo económico; permitirá a empresas y emprendedores alcanzar nuevos mercados, acceder a herramientas de gestión y promoción, y competir a nivel global. Ello generará empleo y crecimiento económico en beneficio de toda la sociedad.
+
+Hagamos de la conectividad un derecho fundamental para todos los ciudadanos, sin importar su ubicación geográfica o situación económica, aspectos que en algunos casos los han perjudicado.
+
+He dicho.
+
+El señor TAPIA (Vicepresidente accidental).-
+
+Tiene la palabra el diputado Ricardo Cifuentes .
+
+El señor CIFUENTES.-
+
+Señor Presidente, no cabe ninguna duda de que estamos frente a un muy buen proyecto de ley, y por supuesto que lo votaremos a favor con mucho entusiasmo, porque, como dijo la doctora Cordero , realmente constituye un mejoramiento significativo para asegurar algo que hoy es fundamental en la vida cotidiana de cada uno de nosotros.
+
+Pero, estimado ministro -por su intermedio, señor Presidente-, creo que nos falta hacer un esfuerzo especial por el mundo rural, tenemos que ponerle una fuerza mayor.
+
+Sé que la Subsecretaría de Telecomunicaciones está haciendo esfuerzos y está llevando adelante un programa; sin embargo, hasta ahora dicho programa no ha dado los resultados que todos esperábamos, por lo que hay localidades donde, contando con el servicio y las instalaciones de la empresa telefónica que ganó la licitación, estas aún no funcionan o no lo hacen a la perfección. Además, no se respeta el principio de que las antenas pueden ser de uso común, compartido por distintas empresas que prestan o prestaban servicios.
+
+Hay localidades no pequeñas, de 2.000 y de 2.500 habitantes, que están muy aisladas en nuestra región. Estoy hablando, por ejemplo, de Quilimarí, de todo el valle de Tilama, del sector alto de Salamanca, del sector más interior entre Combarbalá y Monte Patria, como también de Punitaqui, La Higuera, Paihuano y Vicuña , que son zonas tremendamente turísticas, pero que hoy tienen una muy mala prestación del servicio. Además, desde luego, allí las empresas no están muy interesadas en cumplir rápidamente con la entrega de una buena cobertura, porque obviamente son proyectos menos rentables; se les entiende.
+
+Sin embargo, ministro, desde ese punto de vista, creo que, junto con impulsar la entrega de este servicio, ahora tenemos que discutir sobre la entrega de un subsidio operacional al estilo del consumo de agua potable o de electricidad, de manera que si vamos a hacer de la internet un servicio público, aseguremos su utilización especialmente para las niñas y los niños que han tenido menos fortuna en la vida, y que esta herramienta sea efectivamente un instrumento de movilidad social, como creo que lo es y estoy seguro de que todos aquí lo entienden así.
+
+Para ello, ministro, necesitamos asegurar que las niñas y los niños, en particular en los sectores más rurales de nuestras comunas, tengan acceso a internet y, sobre todo, a educación, para usar bien esta herramienta.
+
+He dicho.
+
+El señor TAPIA (Vicepresidente accidental).-
+
+Tiene la palabra el diputado Daniel Lilayu .
+
+El señor LILAYU.-
+
+Señor Presidente, por su intermedio, saludo al ministro.
+
+Producto de la crisis sanitaria provocada por la covid-19, quedó en evidencia la importancia y esencialidad de las telecomunicaciones, no solo para comunicarse, sino también para trabajar, educar, comprar, realizar trámites e, incluso, asistir a citas de telemedicina.
+
+Represento a un territorio donde existen muchos sectores que todavía se encuentran aislados del mundo de la conectividad digital, y en la pasada pandemia esto quedó aún más de manifiesto.
+
+Cómo olvidar a las decenas de comunidades educativas de las comunas de Los Muermos, Llanquihue , Puerto Varas, Río Negro, Puyehue , San Juan de la Costa y San Pablo, que tuvieron que buscar maneras alternativas a la digital a raíz de que no se contaba con algo tan básico como internet, como lo dijo el señor ministro hace unos momentos. Sí, a algo tan básico como es contar con señal para poder conectarse, lo que, lamentablemente, hasta hoy genera un gran problema en materia de conectividad.
+
+Día a día vemos que aumentan los trámites de los servicios que se deben realizar vía internet; sin embargo, también son muchas las personas que, al no contar con conectividad, ven dificultadas sus posibilidades para la realización de diversos trámites, como consultas o solicitudes de documentos.
+
+Recuerdo a esta Sala que, tiempo atrás y en forma textual, el subsecretario nos dijo que la digitalización mejoraba la calidad de vida de las personas y que estar fuera de ella acentuaba las grandes brechas y desigualdades en cuanto a oportunidades de desarrollo personal y profesional. Sin duda, él tiene toda la razón, por lo que incluir el acceso a internet dentro de los servicios públicos de telecomunicaciones va en la línea de solucionar el problema de miles de personas.
+
+Este proyecto de ley nos parece algo necesario y bueno, pese a que con la regulación de las medidas en ejecución podría entenderse que esto ya funciona como tal.
+
+Por lo tanto, anuncio mi voto a favor de esta iniciativa.
+
+He dicho.
+
+El señor TAPIA (Vicepresidente accidental).-
+
+Tiene la palabra el diputado Jaime Sáez .
+
+El señor SÁEZ.-
+
+Señor Presidente, por su intermedio, saludo al ministro.
+
+Qué duda cabe de que internet es una herramienta vital para la comunicación, la educación y el desarrollo económico de las naciones. Consagrar el acceso a internet como un servicio público de telecomunicaciones garantizará que todos los chilenos tengan igual acceso a este recurso, que es esencial.
+
+Chile es uno de los países de Latinoamérica que tienen un mayor desarrollo de internet; sin embargo, el acceso de la población a esta herramienta no se da en las mismas condiciones y la pandemia que estamos superando ha puesto de relieve dicha realidad.
+
+Al menos 55 comunas de nuestro país presentan niveles de conectividad inferiores al 1 por ciento, y una población superior a las 60.000 personas se encuentra en las denominadas zonas de silencio, donde no hay ningún tipo de cobertura.
+
+Por lo tanto, este proyecto contribuirá de manera significativa a reducir la pobreza a largo plazo, a mejorar la educación, a crear nuevos puestos de trabajo a partir de la digitalización y la implementación paulatina de herramientas como la inteligencia artificial, que también deja de manifiesto nuevos desafíos en materia educativa y de formación para nuestro país. Además, ayudará a promover la democracia y la libertad de expresión.
+
+Esos son solo algunos de los beneficios específicos de consagrar el acceso a internet como un servicio público de telecomunicaciones en Chile.
+
+Esta es una iniciativa que viene siendo trabajada por sucesivos gobiernos, y es un compromiso del Estado de Chile en el que no podemos fallar. Llevamos más de un año entrampados con este proyecto en la Cámara de Diputados, y es de esperar que hoy podamos sacarlo adelante, ojalá con la unanimidad de esta Sala.
+
+Este es un proyecto que pone a nuestro país a la vanguardia a nivel continental en la materia, lo que nos permite llevar la digitalización a las zonas rurales y que las personas de comunidades alejadas puedan autoproveerse del servicio. Asimismo, permitirá que se generen comunidades de usuarios y, de esta forma, se pueda enfrentar de manera más concreta y certera la desigualdad inherente a internet, la digitalización y otras herramientas de tecnologías de la información, que son tremendamente importantes para garantizar el crecimiento sostenible de nuestra economía y para mejorar a nuestra sociedad en su conjunto.
+
+Este proyecto constituye un paso histórico, y no me cabe duda que hoy estaremos a la altura de las circunstancias, aprobándolo y contribuyendo en las tramitaciones siguientes para que sea ley de la república de una vez por todas.
+
+He dicho.
+
+El señor TAPIA (Vicepresidente accidental).-
+
+Para plantear un punto de Reglamento, tiene la palabra el diputado Cristián Araya .
+
+El señor ARAYA (don Cristián).-
+
+Señor Presidente, diecisiete diputados aún restan por intervenir. Con el ánimo de que este proyecto pueda avanzar más rápido estoy dispuesto a no intervenir.
+
+Solicito que recabe la unanimidad de la Sala para acortar el tiempo de las intervenciones a dos minutos y cerrar las inscripciones. Creo que hay temas bastante más relevantes, porque lo único que va a asegurar el acceso a internet será la colocación de antenas, no los discursos.
+
+El señor TAPIA (Vicepresidente accidental).-
+
+¿Habría acuerdo para reducir el tiempo de las intervenciones a dos minutos?
+
+No hay acuerdo.
+
+¿Habría acuerdo para cerrar las inscripciones? No hay acuerdo.
+
+Tiene la palabra el diputado Jorge Rathgeb .
+
+El señor RATHGEB.-
+
+Señor Presidente, votaremos favorablemente esta iniciativa.
+
+¡Qué increíble cómo ha cambiado el mundo! Cuando era niño, uno salía de su casa, estaba todo el día afuera se comía una marraqueta, y los papás no lo echaban de menos. Hoy debemos estar conectados y permanentemente comunicados con nuestros hijos para saber dónde están, a qué hora llegarán a almorzar o a tomar once, qué harán en el día. No sé si se deberá a la delincuencia o a la conexión que hoy sentimos que debemos tener con nuestros hijos.
+
+El grado de conexión que hoy tenemos de internet, que llega casi al 80 por ciento, debe ser aumentado. Aun más, este proyecto de ley establece y aumenta las sanciones -pena de presidio menor en su grado medio o máximo contra los que maliciosamente destruyeren, dañaren o inutilizaren la infraestructura de telecomunicaciones interrumpiendo los servicios.
+
+Esta medida podrá ser aplicada, por cierto, en la Región de La Araucanía, donde la delincuencia y el terrorismo han derribado muchas antenas, lo que perjudica a los niños y a las comunidades que quedan sin ningún tipo de conexión.
+
+Por lo tanto, espero que al contar con este tipo de sanción los fiscales y los jueces tengan la valentía y las facultades para colocar tras las rejas a aquellas personas que echan abajo antenas, muchas veces no con la finalidad de interrumpir las conexiones, sino de que la empresa llegue a reparar la antena y ahí poder robar sus camionetas. Así están las cosas en la Región de La Araucanía.
+
+Por lo tanto, votaré entusiastamente este proyecto de ley, para que se pueda aplicar este tipo de sanciones a aquellos delincuentes, a aquellos terroristas que afectan la conectividad de nuestras zonas y dejan a una inmensa mayoría de personas, entre ellos niños y adultos mayores, sin ninguna conexión, lo que afecta claramente su calidad de vida, que no se puede comparar, en este aspecto, con la calidad de vida de quienes viven en las grandes ciudades, donde están conectados permanentemente a internet.
+
+Espero que todo el Congreso Nacional apruebe este tipo de iniciativas, para que en la macrozona sur y, particularmente, en la Región de La Araucanía aquellos que destruyen la conectividad, que alteran la vida y no nos dejan en paz estén tras las rejas. Espero que los fiscales y los tribunales tengan la facultad de sancionarlos y, a través de este tipo de iniciativas, conseguir la paz y la tranquilidad en nuestra región.
+
+He dicho.
+
+El señor TAPIA (Vicepresidente accidental).-
+
+Tiene la palabra la diputada Mónica Arce .
+
+La señora ARCE (doña Mónica).-
+
+Señor Presidente, una vez más tenemos que graficar que en nuestro país existen dos tipos de Chile: un Chile de quienes disfrutan de los beneficios de la fibra óptica y de un sinfín de servicios de internet, y un Chile en que simplemente las empresas no quieren prestar servicios. Esos lugares generalmente son sectores pobres, vulnerables y rurales.
+
+Si queremos un país desarrollado, debemos cubrir todo Chile con internet, y si las empresas no quieren hacerlo, el Estado tiene el deber y la obligación de garantizar dicho acceso.
+
+¿Cómo se les llama popularmente a las zonas donde no llega el servicio de internet? Zonas rojas, término que, lamentablemente, testifica de forma muy elocuente esa realidad.
+
+Algunos creerán que son casos aislados, como, lamentablemente, dijo un diputado hace un rato. No es así; hoy existen más de 42 comunas en que el servicio de internet simplemente no llega, porque las empresas deciden arbitrariamente hasta dónde emplean su servicio. Si eso no es discriminación, la verdad no sé qué es.
+
+Para qué hablar de los estudiantes que durante la pandemia debían subirse a un árbol o a la techumbre de su casa para conectarse con sus clases. De hecho, en mi distrito, en la comuna de La Pintana, hay sectores en que la señal es tan débil que solo permite conexiones inestables o el uso de un dispositivo solamente. Allí la necesidad de conexión alcanza al 78 por ciento. En la comuna rural de San José de Maipo el acceso a internet es solo de un 31 por ciento.
+
+Por eso, si hay un diputado que piensa que no es importante discutir este proyecto es porque, seguramente, vive en el Chile de las zonas más privilegiadas.
+
+He dicho.
+
+El señor TAPIA (Vicepresidente accidental).-
+
+Tiene la palabra el diputado Felipe Camaño .
+
+El señor CAMAÑO.-
+
+Señor Presidente, hoy votaremos un importante proyecto, un proyecto de carácter histórico, para que nuestro país tenga acceso a internet y que este sea un servicio público; un proyecto para que emparejemos la cancha y pongamos ventanas al mundo a miles de habitantes de Chile que aún siguen aislados y desconectados.
+
+Esta iniciativa me trae a la memoria mi Región de Ñuble y a los miles de personas desconectadas en sectores rurales que han esperado con ansias un anuncio como este.
+
+A la vez, no puedo dejar pasar un tema no menor. Vecinos de Tres Esquinas, en la comuna de Bulnes; vecinos de la precordillera de Santa Lucía Alto , en la comuna de Yungay; los habitantes de las comunas de Pinto, de San Fabián y otros tantos me han dicho que las empresas de telefonía y de internet no están cumpliendo los contratos. En palabras simples, las personas pagan por un servicio que no se está entregando, y, si lo entregan, es de pésima calidad.
+
+¿Quién vela por ellos? No podemos dejar que los usuarios hagan sus descargos en el Sernac frente a estas empresas que son gigantescas.
+
+Tengo entendido que desde el gobierno anterior debía existir un reglamento al cual las empresas de telecomunicaciones se debían ceñir, pero esto no ocurrió y tampoco ha pasado durante el gobierno actual.
+
+Por eso, todavía hay una deuda pendiente para avanzar en este noble proyecto. Hoy internet se ha transformado en un servicio básico y necesario. Un ejemplo es la utilidad que pudo haber prestado en el caso de los incendios forestales del verano. Un simple llamado o un mensaje pudieron haber evitado que se quemaran casas y emprendimientos. Se pudo haber cambiado la historia de este lamentable panorama.
+
+¿Qué pasó? No había conectividad, no había señal. Esa es una realidad que existe en las comunas rurales.
+
+Los vecinos han tenido que ver por años cómo las empresas no se interesan en llevar conectividad a sus hogares, lo que se traduce en menos oportunidades para sus hijos, para su educación y para su desarrollo. Sin embargo, con este proyecto esa realidad cambia.
+
+Por ese motivo, mi voto será favorable a esta iniciativa que trabajamos en la comisión junto con el ministerio, para garantizar el acceso a internet como un servicio público.
+
+Como decía el padre Hurtado , para ser de este un gran país, un país más justo, debemos siempre mirar en grande, querer en grande, pensar en grande y realizar en grande.
+
+He dicho.
+
+El señor TAPIA (Vicepresidente accidental).-
+
+Tiene la palabra la diputada Joanna Pérez .
+
+La señora PÉREZ (doña Joanna).-
+
+Señor Presidente, si se lee el proyecto que data del gobierno de la Presidenta Michelle Bachelet , sin duda uno no podría negarse a aprobarlo. El problema es, señor ministro, que, a pesar de toda la buena intención, quienes representamos a zonas rurales vamos a tener que esperar a que se concreten muchas políticas públicas para que este proyecto se vuelva realidad. Tiene buenas intenciones, pero no señala cuándo ni cómo implementaremos esa mejor conectividad en los sectores rurales. Me refiero a lugares como Los Ángeles, Nacimiento, pero también Carrizal o Los Patos, donde ni siquiera tenemos luz eléctrica.
+
+Fui autora de la iniciativa que se convirtió en la ley sobre servicios básicos, que eran cinco: luz, agua, gas, telefonía e internet. Sin embargo, el gobierno pasado nos vetó internet y telefonía, porque consideró que no eran algo esencial. Estimo que sí son servicios esenciales y necesarios, sobre todo porque pasamos una pandemia y porque se necesita conectividad para la educación y el mundo laboral. Queremos avanzar como país que mira el desarrollo, y solo lo mira, porque este es muy esquivo con nuestro país.
+
+Ojalá el ministro se refiriera a los recursos disponibles este año para el proyecto. Todos los gobiernos y subsecretarías se han comprometido con este tema, ya sea a través del proyecto Wimax o con iluminación para todo el país. Sin embargo, lo que queda es una declaración de proyecto que reconoce determinados servicios como públicos. Hoy tenemos un espacio concesionado, pero damos un servicio que no es de calidad. No estamos garantizando calidad.
+
+Me gustaría que el ministro me escuchara, porque este es un tema muy sensible, especialmente para las personas que muchas veces se tienen que subir al techo o a la lomita del cerro para conectarse.
+
+Voy a aprobar este proyecto, porque confío en que podemos hacer mejor las cosas y que no solo queden en un papel. No deseo ser crítica, pero quiero que me entiendan, porque represento a Tirúa, a Alto Biobío, a personas que quedan desconectadas con una primera lluvia o nieve.
+
+Señor ministro, ¿qué respuesta les damos a esas personas? ¿Vamos a contar con un servicio de calidad? ¿En cuánto tiempo? Las personas no tienen un servicio 5G o 4G, pues con suerte pueden enviar un mensaje de texto. Hasta el Senapred reconoce que, debido a la mala conectividad, a algunas personas no les llegó el llamado de emergencia para evacuar.
+
+Quiero creer, pero quiero que hagamos las cosas bien. Más allá de este lindo proyecto, quiero saber con qué recursos y plan de acción contamos.
+
+He dicho.
+
+El señor TAPIA (Vicepresidente accidental).-
+
+Tiene la palabra la diputada Ana María Gazmuri .
+
+La señora GAZMURI (doña Ana María).-
+
+Señor Presidente, saludo al ministro.
+
+Considero de suma importancia avanzar hacia el acceso a internet como un servicio público de telecomunicaciones, y, por qué no decirlo, también como un servicio básico.
+
+El mundo en el que vivimos hace imperioso contar con una conectividad adecuada en cada rincón de nuestro país. Este es un primer avance para dar cobertura, pensando principalmente en los sectores más marginados y rurales.
+
+La pandemia nos hizo tomar mayor conciencia de la desigual realidad que se vive y de la necesidad perentoria de que todas las personas tengan acceso a internet como una herramienta no solo de uso personal o de entretención, sino como un instrumento para niños, niñas y jóvenes, para el correcto desarrollo académico, y para trabajadores, en beneficio de su desempeño laboral.
+
+En ese sentido, llama la atención la ausencia de una norma que asegure la calidad del servicio para determinadas actividades, como, por ejemplo, en el ámbito de la educación, la salud o el trabajo, pero en el entendido de que al regular la materia en forma general dichos aspectos quedan contemplados.
+
+Me preocupa el régimen concesional que considera el proyecto, a fin de fijar metas y objetivos para garantizar la cobertura, calidad de servicio y rapidez de conexiones. Es necesario establecer tarifas que permitan brindar a los usuarios precios asequibles, pues, lamentablemente, hemos sido testigos de concesiones anteriores en otros rubros que han dejado bastante que desear respecto de la implementación de los servicios propiamente tales.
+
+No obstante lo anterior, estoy de acuerdo con el proyecto y lo votaré a favor, pues considero que es un buen inicio para establecer una regulación que permita la fijación de estándares en la provisión de internet, especialmente en términos territoriales, facilitando el acceso a localidades donde las compañías no tienen interés comercial en invertir.
+
+De acuerdo con un estudio del Centro UC de Encuestas y OTIC de la Cámara Chilena de la Construcción, de 2022, la cifra de cobertura de internet se elevó de un 75 por ciento a un 89,2 por ciento. Ese aumento se explica por el uso de dispositivos móviles para acceder a internet. Pese a lo anterior, todavía existen 639.000 hogares en el país sin acceso a internet, equivalente a 1,28 millones de personas. Esa realidad refuerza la necesidad de regulación que establece el presente proyecto.
+
+Por último, no quiero terminar mi intervención sin saludar y enviar todo mi afecto y cariño a los vecinos de mi distrito, especialmente de Pirque, San José de Maipo y La Pintana, comunas que presentan terribles problemas de conexión, con toda la afectación a la vida comunitaria que eso implica, en especial en el sector de Bajos de Mena, de La Pintana.
+
+Hace poco tiempo participé en una reunión con el Comité de Adelanto por las Telecomunicaciones en la villa El Pangue. Allí, los vecinos me compartieron sus preocupaciones sobre la conectividad a internet para sectores discriminados por la industria nacional de telecomunicaciones. Todo mi apoyo para ellos y para el trabajo comunitario.
+
+Saludo especialmente a Radio 7, radio comunitaria de Puente Alto, que hace una importante labor de difusión.
+
+Aprobaremos este proyecto de ley, pero sabemos que es importante avanzar en los detalles, para que realmente se garantice el acceso democrático a internet y, de esa manera, no dejemos a nadie atrás.
+
+He dicho.
+
+El señor TAPIA (Vicepresidente accidental).-
+
+Tiene la palabra el diputado Mauricio Ojeda .
+
+El señor OJEDA.-
+
+Señor Presidente, este es un tremendo desafío, porque internet debe facilitar el acceso y llegar a todas partes. En algunos lugares aquello no es una realidad; no ha sido posible aún.
+
+Provengo de la Región de La Araucanía, donde hay muchos puntos ciegos donde el internet no está presente. Por tanto, el desafío que tiene a cuestas, señor ministro, es gigante, porque una cosa, como decía la diputada Joanna Pérez , son las buenas intenciones y otra llevar a la práctica el proyecto.
+
+Hay algunas cosas que encontramos en la iniciativa. Por ejemplo, se señala que el reglamento se va a encargar de regular el concepto de comunidades de telecomunicaciones. También es importante, respecto de los servicios de calidad, evitar que alguien pueda judicializarlos, porque el concepto es bastante abstracto.
+
+En tercer lugar, las tarifas cobradas por los concesionarios deben ser aprobadas y fijadas por el Ministerio de Transportes y Telecomunicaciones. Señor ministro, hay que tener especial cuidado cuando se habla de fijar precios.
+
+Pese a que detectamos varios detalles que juegan en contra de la iniciativa, al debatir y conversar la materia con mi bancada como integrante de la comisión, creo que el proyecto presenta más beneficios que daños. También escuché al ministro en una conversación breve, quien señaló que va a recibir las observaciones que hemos planteado para intentar corregir determinadas materias, a fin de que esto se lleve a cabo.
+
+Queremos que esto no solo quede en buenas intenciones, sino que a cada rincón de nuestro país pueda llegar, por fin, el ansiado internet.
+
+Por tanto, vamos a aprobar este proyecto.
+
+He dicho.
+
+El señor TAPIA (Vicepresidente accidental).-
+
+Tiene la palabra la diputada Emilia Nuyado .
+
+La señora NUYADO (doña Emilia).-
+
+Señor Presidente, este es un proyecto que tuvo una buena recepción en la comisión. Sin embargo, todavía no nos permite avanzar para que el internet se transforme en un derecho y sea universal.
+
+Sin duda, la iniciativa permite que pueda haber mayores accesos. Ojalá que el Plan Nacional de Lenguajes Digitales pueda dar cuenta de la realidad difícil que le tocó vivir a muchos estudiantes en período de pandemia, quienes no tuvieron la posibilidad de acceder a toda la información incluida en las plataformas digitales.
+
+De esa realidad estamos hablando, de esa brecha digital que no va a ser resuelta con este proyecto, porque solo reconoce el acceso a internet como un servicio público de telecomunicaciones. Es un avance que también va a permitir que las diversas organizaciones e instituciones del Estado puedan interactuar, como es el caso de los municipios que están muy cercanos a esa realidad territorial, puesto que en diversos sectores rurales todavía no tienen la posibilidad de contar con internet. Hay muchos lugares de la Región de Los Lagos y del resto del país que, lamentablemente, siguen a la espera de que esta sea una resolución.
+
+También hay lugares que no están muy alejados, como es el caso del sector Trumao , que le planteé al ministro, ubicado a 20 kilómetros de Osorno y a 18 kilómetros de la comuna de San Pablo, en donde las familias no tienen acceso a internet, no pueden conectarse por sus teléfonos celulares y no tienen la posibilidad de transporte subsidiado.
+
+A veces uno piensa que ellos no están muy lejos de la ciudad, pero, sin embargo, están muy marginados, porque no tienen acceso a la información. Esas son dificultades que se ven permanentemente en los diversos territorios que representan los diputados que me antecedieron en el uso de la palabra.
+
+Señor ministro, este proyecto es importante y valorable, y por eso vamos a votar a favor, pero también tenemos que avanzar en los diversos planes, como el Plan Nacional de Lenguajes Digitales. Se necesita otorgar el presupuesto para que se hagan las fiscalizaciones y nadie quede sin acceso a internet.
+
+He dicho.
+
+El señor TAPIA (Vicepresidente accidental).-
+
+Tiene la palabra el diputado Juan Carlos Beltrán .
+
+El señor BELTRÁN.-
+
+Señor Presidente, por su intermedio saludo al ministro de Transportes y Telecomunicaciones, señor Juan Carlos Muñoz , y también a mis colegas diputados.
+
+En estos tiempos es esencial reconocer el derecho a internet como parte de los servicios públicos de telecomunicaciones. En la Región de La Araucanía, donde están siete de las diez comunas más pobres del país, es una verdadera urgencia trabajar para disminuir la brecha digital con el resto del país. Lo digo porque, cuando la provincia de Malleco, en mi querida Región de La Araucanía, ha querido salir de la crisis, el Estado no le ha tendido la mano verdaderamente.
+
+Soy una persona que trabaja en terreno y que recorre con particular interés el mundo rural y aquellos lugares a donde usualmente no siempre se llega. He estado en Lonquimay, en Melipeuco y en los recónditos sitios de Curacautín, Vilcún y Collipulli . Por consiguiente, puedo dar fe de que la falta de conectividad en algo tan esencial como es internet es una realidad que todos ellos padecen.
+
+Realmente, siento que esta es una gran oportunidad para que dejemos de hablar de La Araucanía y trabajemos para tener una robusta red de datos que permita a la señora Zulema López, de Curacautín ; a don Juan Carlos Teca, de Lonquimay ; a doña Pamela Orellana , de la villa Río Amargo en Collipulli, y a decenas de miles de vecinos tener internet, hablar a distancia sin barreras con sus seres queridos o, simplemente, hacer un trámite sin tener largas y desgastantes horas de viaje para postular a un beneficio del Estado.
+
+Ese es un problema que se vive en localidades o sectores rurales, como Pichi Pellahuén , Lumaco , Melipeuco , Curacautín y Lonquimay . En una conversación, el propio alcalde de Lonquimay me dijo: “El internet en nuestra comuna es un desastre”. Para qué decir lo que el alcalde de Collipulli, señor Manuel Macaya , me señaló de los sectores rurales.
+
+Esto beneficiará a los emprendedores y a las dueñas de casa que trabajan incansablemente para elaborar sus productos y que aspiran a poder ofrecerlos a través de internet.
+
+El internet es un elemento esencial que debe ser igual tanto en el área urbana como en el área rural.
+
+Anuncio que votaré a favor el proyecto.
+
+He dicho.
+
+El señor TAPIA (Vicepresidente accidental).-
+
+Tiene la palabra el diputado Diego Ibáñez .
+
+El señor IBÁÑEZ.-
+
+Señor Presidente, por su intermedio, saludo al ministro Juan Carlos Muñoz .
+
+Ministro, lo invito a seguir haciendo el gran trabajo que está desarrollando.
+
+En este momento muchos me están escuchando, porque tienen internet, pero el 20 por ciento de los domicilios de nuestro país hoy no cuenta con una red fija de internet. Chile ha enviado satélites al espacio mientras todavía hay niños que no cuentan con internet. Durante la pandemia muchos niños se tuvieron que subir a los techos para estudiar por vía telemática, pero, al mismo tiempo, a sus familias les subieron los precios de los planes.
+
+Me pregunto: ¿cómo vamos a ser una potencia educacional, profesional y científica en Latinoamérica si seguimos asfixiando el talento humano y si, en vez de producir conocimiento y educación, a algunos solo les interesa crecer sobre la base de la exportación de materias primas? Hoy el conocimiento es clave. Por eso, el internet debe ser un servicio público.
+
+Para las reglas del mercado, hay un Chile que no cuenta con una densidad demográfica que permita rentar a las empresas y a las industrias de telecomunicaciones. Para el negocio del internet, los niños de Petorca, de Nogales, de Hijuelas, de Chiloé o de Visviri no rentan, y si no rentan, no existen.
+
+Hoy, para tener educación, tener un trabajo, levantar una pequeña empresa, el internet es una condición. Como servicio básico, el internet debe ser un bien público que les pertenezca a todas y a todos.
+
+Hoy, la alfabetización digital y el acceso a internet son una condición para la democracia, una condición para ejercer la ciudadanía en pleno siglo XXI, una condición para ejercer la soberanía sobre nosotros mismos, sobre nuestro territorio, sobre el modelo político en general.
+
+Hoy tener conocimiento es tener poder. Si se niega el internet a los niños y niñas, ellos crecerán en una desigualdad brutal desde la cuna. Mientras se siga dependiendo del acceso a la ganancia de unos pocos, se seguirá asfixiando y aniquilando el talento humano desde la niñez. Si queremos crecer, no basta vender el suelo a transnacionales mineras. El cobre del siglo XXI debe ser la educación y el conocimiento, que son nuestras principales armas. Para ser un país desarrollado necesitamos que el internet sea un derecho para todas y todos.
+
+Señor Presidente, por su intermedio, quiero felicitar al ministro Juan Carlos Muñoz , porque hubo que hacer un gran trabajo para que esto fuera efectivo, y decirle que el día de mañana también vamos a estar apoyándolo.
+
+He dicho.
+
+El señor TAPIA (Vicepresidente accidental).-
+
+Tiene la palabra el diputado Fernando Bórquez .
+
+El señor BÓRQUEZ.-
+
+Señor Presidente, soy muy consciente de que nuestro país sufre una tremenda brecha digital que afecta especialmente a los sectores más aislados y vulnerables. Muchos sectores de Chiloé no cuentan con acceso a internet. Eso genera una tremenda discriminación en contra de los niños de la isla, quienes desde pequeños se encuentran en desventaja respecto de sus pares que tienen el privilegio de vivir en grandes centros urbanos.
+
+Por eso, me parece que el proyecto es indispensable para eliminar las brechas en materia de conectividad y de acceso a internet.
+
+Estimado ministro -por su intermedio, señor Presidente-, espero que, una vez que el proyecto sea ley, el gobierno que esté de turno tome todas las medidas necesarias para asegurar que todos los niños de Chile, sin importar de dónde sean, puedan acceder a este servicio que es esencial para el desarrollo de las personas.
+
+Esta es una oportunidad para que la gente de Cochamó, de Maullín, de Calbuco, del archipiélago de Chiloé y de toda la provincia de Palena pueda gozar de los beneficios de la conectividad digital al igual que cualquier otro chileno.
+
+Por eso, le digo al ministro -por su intermedio, señor Presidente- que voy a votar a favor este proyecto.
+
+He dicho.
+
+El señor TAPIA (Vicepresidente accidental).-
+
+Tiene la palabra el diputado Jaime Mulet .
+
+El señor MULET.-
+
+Señor Presidente, por su intermedio, saludo al ministro de Transportes y Telecomunicaciones, a quien felicito por su trabajo y por el diálogo permanente que ha tenido con los distintos actores para ir sacando adelante los proyectos, aunque debo decir que en esta iniciativa más bien trabajó el subsecretario de Telecomunicaciones.
+
+Obviamente, vamos a apoyar este proyecto de ley, porque es un avance importante y significativo, pero quiero decir con mucha claridad que no resuelve todo.
+
+Hubo una discusión dentro de la Comisión de Obras Públicas, Transportes y Telecomunicaciones, que fue muy importante y que limitó la penetración más igualitaria para que este servicio, que pasa a ser público, llegue a todos y a todas, y a todos los rincones del país.
+
+Pero hubo una negativa en esa materia, respecto de la unidad mínima de territorio que se les otorgaba a las empresas concesionarias. El proyecto planteaba originalmente que la unidad mínima fuera la comuna, que es lo que a mí me gustaba, de manera de establecer la obligación, y esto es muy importante, estimados colegas, porque ustedes han estado señalándole a la ciudadanía que va a tener acceso a internet en todos los lugares, y esto no es tan claro ni va a ser tan rápido; lo advierto, para poner las cosas en su lugar.
+
+Después, la unidad mínima se redujo, lo que significa que la concesionaria no está obligada a ponerla en toda la comuna, sino que en una unidad más pequeña, que fue la que se negoció, que tiene que ver con una unidad de los datos censales mucho más pequeña, donde la concesionaria se obliga en esas unidades determinadas y, de esa manera, va dejando fuera sectores donde hay menos densidad poblacional y otros problemas; en definitiva, donde es más caro.
+
+Entonces, se limita a subsidiar cruzadamente, que era lo que me gustaba, de manera que los sectores alejados de las comunas pudieran también estar dentro de las obligaciones de las empresas concesionarias para prestar el servicio.
+
+Señor Presidente, no está todo resuelto, pero es un avance importante. Se establecen otros incentivos y otras fórmulas para llegar a esos lugares alejados, pero -¡ojo!no está todo resuelto acá; me hubiera gustado la otra alternativa, pero no hubo acuerdo con algunos parlamentarios de la oposición en esta materia. Sin embargo, se avanza, y por eso no quiero ser catastrofista.
+
+En ese sentido, vamos a apoyar este proyecto de ley, toda vez que se establece el plan digital nacional, que cada gobierno tendrá que desarrollar cada cierto tiempo; también se establece la calidad de servicio público del internet, y aquí han destacado con creces, quienes me han antecedido en el uso de la palabra, la necesidad y la importancia de este servicio público, pero hay que seguir profundizando para que llegue a todos y todas, especialmente en los sectores más alejados.
+
+He dicho.
+
+El señor TAPIA (Vicepresidente accidental).-
+
+Recabo la unanimidad de la Sala para cerrar las inscripciones, de manera de acotar las intervenciones solo a los diez diputados y diputadas inscritos.
+
+¿Habría acuerdo?
+
+Acordado.
+
+Tiene la palabra el diputado Alejandro Bernales .
+
+El señor BERNALES.-
+
+Señor Presidente, me alegra estar discutiendo este proyecto, que reconoce a internet como un servicio público. He leído el proyecto y, de su lectura, me surge una preocupación, y creo que es importante señalársela al ministro, por su intermedio, señor Presidente. En el proyecto faltan referencias a la alfabetización digital, una de las grandes tareas que tenemos por delante.
+
+Señor Presidente, aumentamos las carreteras y ampliamos las existentes porque tenemos más conductores que, supuestamente, saben transitar -o creemos que saben transitar- por estas vías. Con internet, si queremos ampliar este servicio, tenemos que tener alfabetización, porque es ahí donde está la oportunidad.
+
+En su última cuenta pública, el Presidente de la Cámara de Diputadas y Diputados, Vlado Mirosevic , señalaba que desde el Partido Liberal queremos impulsar el programa Cien Mil Programadores para Chile, y eso es muy importante, porque esta es una de las oportunidades que da este servicio.
+
+Pero también he escuchado a algunos colegas poner el foco solo en los niños, solo en los jóvenes, olvidándose de que en ciudades como Puerto Montt, una ciudad que tiene acceso a internet, tenemos muchos adultos mayores que no saben cómo acceder a este servicio y cómo hacer sus trámites en línea.
+
+Por lo tanto, la alfabetización digital no solo debe apuntar hacia los jóvenes, en quienes puede tener un foco educativo, de formación en programación en todas las tecnologías que están copando nuestro mundo, sino que también apuntar hacia los adultos mayores, de manera de actualizarlos y enseñarles cómo entrar en este mundo digital.
+
+Ministro -por su intermedio, señor Presidente-, no perdamos esta oportunidad, que me parece muy valiosa. He trabajado mucho tiempo de mi vida en internet con distintos e mprendedores del mundo digital, y esto no es algo que hay que perder.
+
+Con todo, no me voy a cansar de repetir lo siguiente: hace diez años, el espíritu de internet era colaborar y ayudar al otro; lamentablemente, el espíritu actual de internet ha ido cambiando y lo ha ido haciendo en una faceta que ya no es tan colaborativa, sino mas bien destructiva, para destruir al otro, para atacar al otro, y esta es una delgada línea en la que debemos trabajar, realidad ante la que este Congreso Nacional no puede mirar hacia el lado, no puede taparse los ojos y no hablar de estos temas. Tenemos que avanzar en estas temáticas, tenemos que ver cómo legislamos, pero, sobre todo, cómo fomentamos y cómo encauzamos bien esta gran carretera de las redes sociales y de internet.
+
+Repito: no perdamos esta oportunidad y recuperemos el espíritu colaborativo que ha tenido internet por siempre. Ese es el espíritu que debemos tener en esta Sala y también en el acceso universal a internet.
+
+He dicho.
+
+El señor TAPIA (Vicepresidente accidental).-
+
+Tiene la palabra la diputada Karol Cariola .
+
+La señorita CARIOLA (doña Karol).-
+
+Señor Presidente, estamos discutiendo un proyecto de ley muy importante que, si bien ingresa a través de un mensaje de la entonces Presidenta Michelle Bachelet , está inspirado en una iniciativa parlamentaria, lo que me parece relevante, porque surge precisamente de lo que muchos parlamentarios y parlamentarias vemos en los territorios.
+
+Para mí fue una experiencia muy dolorosa saber que durante la pandemia muchos niños y niñas de Renca tuvieron dificultades muy grandes para conectarse a internet desde sus casas, cuando se trataba de llevar adelante la educación a distancia, no solo porque tenían problemas de acceso a medios digitales, sino porque, lamentablemente, tenían que ir a la casa de algún vecino o vecina o a distintos lugares para poder conectarse, porque la zona donde vivían estaba declarada como zona roja. ¿Y qué significaba estar en zona roja? Que las empresas prestadoras del servicio, por autodefinición, no llegaban a esos lugares por razones, supuestamente, de seguridad.
+
+Por eso es tan importante lo que hoy estamos discutiendo, que es la regulación y la provisión de internet como un servicio público de telecomunicaciones, que implica que el Estado, por medio de un régimen concesional, podrá esencialmente fijar metas y objetivos para garantizar la cobertura, la calidad del servicio, la rapidez de las conexiones y, además, establecer fijaciones tarifarias que permitan brindar a los usuarios precios asequibles.
+
+Señor Presidente, me parece relevante esta regulación, no solo porque va a posibilitar la fijación de estándares en la provisión de internet, sino también porque se van a establecer términos territoriales, facilitando el acceso a aquellas localidades donde las compañías no tienen interés comercial de llegar, no tienen interés comercial de invertir. Eso trae consecuencias concretas en la vida de las personas.
+
+Las brechas digitales son una realidad, como también lo es que la conexión a internet pasa a ser una necesidad de primera línea, sobre todo en situaciones como las que vivimos en pandemia, que obligan a contar con este tipo de conexiones, sea para tener acceso a la educación, al trabajo o para satisfacer otras necesidades que hoy están incorporadas al diario vivir, como decía mi compañera Marisela Santibáñez , como la tecnología de búsqueda, a propósito de la ley de extraviados.
+
+Me parece muy relevante poner estos puntos sobre la mesa, porque el acceso a internet es fundamental, como fundamental es que el Estado garantice su acceso.
+
+Por eso, vamos a aprobar el proyecto.
+
+He dicho.
+
+El señor TAPIA (Vicepresidente accidental).-
+
+Tiene la palabra la diputada Marta González .
+
+La señora GONZÁLEZ (doña Marta).-
+
+Señor Presidente, este es un proyecto largamente esperado. Varios colegas han hecho referencia en sus intervenciones a la pandemia; sin embargo, este proyecto ingresa a trámite varios años antes de la pandemia.
+
+Cabe, entonces, preguntarse con cuánta premura o con cuánta demora estamos legislando sobre conectividad, sobre el uso de la internet y sobre otros desafíos, como la educación digital. Me parece bien que estemos acortando la brecha de conectividad y que se reconozca el acceso a internet como un servicio de uso público, porque la comunicación también es un derecho humano.
+
+Es cierto que urge la alfabetización digital, pero también urge regular el uso de internet. Cuando hablamos de internet, pensamos en el uso que le dan los estudiantes, en el uso que le damos cuando realizamos trámites, pero también se está usando para cometer delitos.
+
+Por eso, llamo a que legislemos con mayor urgencia y premura sobre los temas que son necesarios para la ciudadanía, y que no esperemos dos períodos de gobierno para despachar un proyecto como este. Es impensado.
+
+Los desafíos a que nos enfrentamos como sociedad son vertiginosos en temas de tecnología, y la Cámara de Diputadas y Diputados no puede quedarse atrás. No podemos estar legislando tarde por problemas que la sociedad ya tiene en su día a día.
+
+Así como nos pusimos de acuerdo en temas de seguridad, para legislar en conjunto con el Senado en distintos proyectos, realizando sesiones especiales para ello, creo que también es urgente que la Cámara de Diputados dé respuesta oportuna y eficiente a los problemas de la ciudadanía.
+
+Así que llamo a repensar la forma en que estamos legislando estos proyectos, porque, insisto, los desafíos que tenemos hoy en este contexto son mayores.
+
+He dicho.
+
+El señor TAPIA (Vicepresidente accidental).-
+
+Tiene la palabra el diputado Hugo Rey .
+
+El señor REY.-
+
+Señor Presidente, por su intermedio saludo al ministro.
+
+Voy a votar a favor esta iniciativa, que es importante, ya que busca reconocer el acceso a internet como un servicio público. No obstante, quiero plantear algunas dudas que creo que son vitales para que esta iniciativa se pueda materializar, sea efectiva, sea real y llegue a todos.
+
+En primer lugar, quiero saber cómo se va a garantizar, cómo se va a lograr.
+
+En segundo lugar, quiero saber cómo la fibra óptica va a llegar a todos los sectores.
+
+¿Están los recursos dispuestos para ello?
+
+Señor ministro, por intermedio del señor Presidente, esta iniciativa puede ser solo letra muerta si no se cumple con la normativa existente -o con la que viene en camino-, si no se tiene presupuesto para ampliar las zonas de cobertura, si las empresas no hacen inversiones para una buena mantención del servicio, si no se tiene el número adecuado de fiscalizadores y si no existe un monitoreo en terreno -o virtual, al menos- del servicio entregado.
+
+Señalo aquello, porque represento una región con vocación rural, con zonas aisladas, en donde el único mecanismo de conexión con los servicios y con la información, para que los estudiantes hagan sus tareas, muchas veces es solamente la señal de internet a través de la telefonía celular. Ni soñar en esos sectores y en gran parte del país con la fibra óptica. Al menos en mi región el gobierno regional tiene la instalación de dicha tecnología dentro de los proyectos emblemáticos. No obstante, también tengo que demostrar y dar a conocer en la Sala la realización de un proyecto específico que puede ser un ejemplo para el resto del país: el alcalde de Licantén, mi amigo Marcelo Fernández , junto con la empresa Mundo impulsó la instalación de fibra óptica para todos sus establecimientos educacionales. En Licantén, la zona cero de las inundaciones, el alcalde gestionó con la empresa privada dicha instalación, lo cual se está haciendo. Además, van a preparar a los estudiantes para ser técnicos en la materia. Esto demuestra que con una mirada de futuro las cosas se pueden hacer. Pero ello no ocurre en todos lados; no todos tienen la misma suerte.
+
+Espero que este sueño de la telefonía y de la conectividad a internet sea una realidad; pero sabemos que la red óptica va a demorar muchos años para llegar a instalarse en todos los rincones del país. Debo decirlo: el servicio de telefonía en muchos lugares tiene deficiencia en su capacidad, en su cobertura y en la estabilidad de la señal. A veces la gente ni siquiera puede recibir mensajes; sin embargo, a fin de mes le cobran la boleta por completo. Eso no puede ser. Esa es una situación en la que el gobierno debe hacerse parte y tomar las acciones que correspondan, para que a la gente se le cobre lo que corresponde…
+
+El señor TAPIA (Vicepresidente accidental).-
+
+Ha concluido su tiempo, señor diputado. Tiene la palabra el diputado Felipe Donoso .
+
+El señor DONOSO.-
+
+Señor Presidente, honorable Sala, cuando hablamos de internet como servicio público, la verdad es que hablamos de una necesidad imperiosa. Uno debiese pensar que quizás ello podría ser uno de los derechos consagrados en la Constitución, cosa que hoy es posible y que hace diez años no lo era.
+
+Ahora, ¿por qué es tan necesario el internet? ¿Cómo nos damos cuenta? Nos damos cuenta por una pandemia en la que sin internet no hubiésemos podido trabajar y las personas no hubiesen podido entretenerse ni tener atención de salud. Sin embargo, eso sucedía en las grandes ciudades, ahí donde llegaba internet.
+
+Muchos alcaldes, con la intención de ayudar a los alumnos de sus colegios, les entregaron tablets. Recuerdo el caso de la localidad de Las Lomas, en la comuna de San Clemente, donde la municipalidad entregó tablets a los alumnos con la mejor de las intenciones. Sin embargo, lo que no sabía la municipalidad era que la antena de Las Lomas tenía capacidad para treinta conexiones. En consecuencia, cuando se encendieron las tablets, no había internet.
+
+Lo anterior sucede en casi todas las comunas de mi distrito y en gran parte de Chile. En mi distrito, en la Región del Maule, a diez minutos del centro de las ciudades, uno encuentra prácticamente en cualquier parte un lugar no solo sin internet, sino sin agua potable y sin camino. Hablamos de un país en vías de desarrollo, pero ese país en vías de desarrollo ¿en Santiago lo encontramos desarrollado? En las regiones, ¿está en vías de desarrollo? En algunas comunas, ¿qué es el desarrollo? Cuando nos encontramos en un lugar rural sin agua potable, sin caminos, sin internet, sin teléfono, lo único que nos falta es un león para estar en África. Esa es la realidad que viven miles de chilenos día a día.
+
+Cada vez son más importantes el internet y la telefonía. Por eso es fundamental que se ejecute de buena manera la instalación de la red 5G en la telefonía y que todos seamos capaces de poner presión para que las empresas cumplan.
+
+Ahora vamos a poder avanzar mucho más con el internet, en términos de entregar facilidades a las personas para acceder a él. Debemos preocuparnos de que este proyecto no se convierta en una ley que simplemente quede en el escritorio, sino que se haga carne y esté en las comunidades, para que las personas disfruten del desarrollo del mundo, para que la persona tenga efectivamente el acceso a una red que le permita trabajar, tener salud, entretenerse y conectarse con los demás.
+
+He dicho.
+
+El señor TAPIA (Vicepresidente accidental).-
+
+Tiene la palabra la diputada Camila Musante .
+
+La señorita MUSANTE (doña Camila).-
+
+Señor Presidente, considero fundamental lo que estamos discutiendo hoy: el acceso a internet como un servicio público de telecomunicaciones.
+
+Debemos entender que internet es clave para el desarrollo, que la conectividad es fundamental para el desarrollo de las personas en estos tiempos modernos, así como también para la productividad. Debemos entender el acceso a internet como una condición para el ejercicio de otros derechos.
+
+En el debate parlamentario se ha hecho referencia a la educación y se recordó el problema que en tiempos de pandemia enfrentaron los niños y niñas de sectores rurales alejados y desconectados, en las llamadas zonas rojas, quienes se perdieron clases por no tener acceso a internet, quienes no pudieron ejercer su derecho a la educación por estar desconectados.
+
+Lo mismo sucede con el trabajo. En nuestro país es una realidad el teletrabajo, que se ha mantenido más allá de la alerta sanitaria y que es una forma de compatibilizar las labores de cuidado y la actividad laboral. Hablo de las teleconsultas, de las funciones remotas, de las reuniones vía Zoom. Si no avanzamos en una legislación que reconozca el teletrabajo y proteja sus derechos, también nos quedaremos atrás. Al respecto, presenté un proyecto de ley que amplía el teletrabajo a las personas cuidadoras de cualquier edad, y vamos a solicitar que se ponga en tabla en la Comisión de Trabajo y Seguridad Social.
+
+No obstante, para que el trabajo y el derecho a la educación de quienes están en zonas rojas, con el fin de que puedan estudiar sin ningún problema, sea una realidad y nadie quede fuera, es fundamental el acceso a internet y que este sea considerado no solo como un servicio público, sino también como un piso mínimo para el ejercicio de derechos fundamentales.
+
+He dicho.
+
+El señor MIROSEVIC (Presidente accidental).-
+
+Tiene la palabra el diputado Leonidas Romero .
+
+El señor ROMERO (don Leonidas).-
+
+Señor Presidente, por su intermedio saludo al ministro de Transportes y Telecomunicaciones, señor Juan Carlos Muñoz .
+
+Ministro, qué duda cabe de que nuestro país tiene serias dificultades, falencias, pobreza y miseria. No le echemos la culpa a la pandemia, al estallido social, al estallido delincuencial; no le echemos la culpa a la falta de internet de que muchos niños hayan quedado sin educación, porque también podríamos decir que muchos, miles de niños, quedaron sin educación porque el Colegio de Profesores no quería trabajar. Pero enfoquémonos en el presente y en el futuro.
+
+Obviamente, voy a votar a favor este proyecto, porque es necesario tener buena conexión a internet. Espero que la futura ley no sea letra muerta; espero que no sea solamente una declaración de buenas intenciones, porque si bien las empresas privadas tienen y deben hacer inversiones, no es menos cierto que el gobierno, el Estado, también debe comprometer recursos. Lo señalo, porque ninguna empresa, por muy generosa que sea, se va a ir a instalar a las islas. En la Región del Biobío tenemos los casos de isla Santa María e isla Mocha, que no cuentan con telefonía de red fija, no tienen buena conexión para llamar y menos para conectarse a través de un computador.
+
+Entonces, repito, señor ministro, por intermedio del señor Presidente, espero que esta ley en proyecto no sea letra muerta y que realmente enfrentemos el futuro de mejor manera.
+
+Hoy se está discutiendo a nivel mundial sobre la inteligencia artificial; nuestro país no es la excepción. Es un bonito concepto. Ojalá que cuando se discuta en esta Sala sobre esta materia la analicemos en forma seria, para que se transfo rme en realidad, porque mientras estamos hablando respecto de la inteligencia artificial, hoy tenemos serios proble mas de conexión a internet.
+
+Se me viene a la memoria la empresa de telefonía Mundo, que en forma voluntaria, por decisión propia, efectuó la conexión gratuita a las sedes de la junta de vecinos. Lo digo, porque, a veces, nadie valora ese tipo de iniciativas. Los empresarios tienen la mejor disposición e invierten en favor de la comunidad, pero si no hay el respaldo, el reconocimiento y el apoyo de los gobiernos, en este caso del gobierno del Presidente Gabriel Boric, solamente van a ser buenas intenciones, pero letra muerta.
+
+Espero en Dios que eso no ocurra en el caso de lo que propone este proyecto.
+
+He dicho.
+
+El señor MIROSEVIC (Presidente accidental).-
+
+Tiene la palabra el diputado Henry Leal .
+
+El señor LEAL.-
+
+Señor Presidente, vamos a respaldar con mucho gusto este proyecto, con mucho agrado, porque significará un avance importante para muchos sectores de la Región de La Araucanía que hoy no tienen el privilegio de tener acceso a internet. ¿Cuántos colegios rurales, cuántos alumnos llegan a sus casas y no se pueden conectar? Aquello es un desmedro y representa una desventaja respecto de los estudiantes que viven en las ciudades. De esa brecha debemos hacernos cargo.
+
+Pienso, por ejemplo, en toda la zona costera de la comuna de Carahue, en la comuna de Loncoche, en el mundo rural de Villarrica, en la comuna de Cholchol, donde no hay señal de internet.
+
+Por lo tanto, el que estemos avanzando hacia el reconocimiento del acceso a internet como un servicio público de telecomunicaciones apunta en la dirección correcta. Este es el tipo de proyectos que nos gusta que se tramiten, porque permiten dar soluciones concretas a la ciudadanía.
+
+A todos nos pasa que cuando vamos a terreno, al mundo rural, nos dicen: “Diputado, ayúdenos, porque no tenemos internet, no tenemos acceso a telefonía móvil”. Eso se repite en todos los distritos con sectores con mucha ruralidad.
+
+Por lo tanto, vamos a respaldar esta iniciativa, pero tenemos una preocupación: ¿cómo se va a cumplir lo que dispone el proyecto y qué facultades tendrá la autoridad respectiva para que se concrete? Porque una cosa es que declaremos el acceso a internet como un servicio público de telecomunicaciones, pero otra que eso se concrete, que se hagan las inversiones respectivas para que el servicio esté disponible.
+
+Sin perjuicio de esa duda legítima, vamos a respaldar este proyecto, porque sabemos que muchos alumnos que habitan en sectores rurales están en desventaja en comparación con los que viven en el mundo de la ciudad.
+
+Por eso, votaremos a favor esta iniciativa.
+
+He dicho.
+
+El señor MIROSEVIC (Presidente accidental).-
+
+Tiene la palabra la diputada Carolina Tello .
+
+La señora TELLO (doña Carolina).-
+
+Señor Presidente, si bien algunos datos sitúan en un 89 por ciento la cobertura de internet en nuestro país hacia el año 2022, al momento de ver dichas realidades en los hogares, dicha cifra disminuye a un 39 por ciento en el caso de banda ancha y disminuye a 24 por ciento en los hogares con menores ingresos. Vale decir, esa gran cobertura se explica principalmente por el crecimiento del mercado móvil, lo que claramente no viene a satisfacer la necesidad real de internet en relación con cobertura, velocidad, estabilidad y calidad del servicio.
+
+Por eso, este proyecto de ley, que busca reconocer el servicio a internet como un servicio público, es, sin duda, una noticia muy esperada por nuestras comunidades, especialmente por los sectores de nuestro país que siguen con problemas de conectividad.
+
+En el caso de mi región, la Región de Coquimbo, a la que represento, conocemos los problemas de acceso al servicio que poseen miles de vecinos y vecinas, especialmente en los sectores rurales, en nuestros valles y en las localidades, donde muchas veces la realidad es que dicho acceso a internet se limita solo a una compañía, en muchos casos con una señal intermitente que no permite a los vecinos y vecinas acceder a dicho servicio de manera permanente. Por ejemplo, los estudiantes tienen problemas para acceder a una herramienta que hoy es vital para educarse, y también hay dificultades para efectuar muchos otros trámites que se hacen a través de esta forma virtual. Hay muchas personas que se encuentran en una total y absoluta desconexión efectiva.
+
+Este proyecto, que dota de una serie de herramientas al Estado, y a las y los ciudadanos para hacer exigible dicho acceso, es una transformación importante y esperada, pues permitirá que el criterio no siga siendo meramente comercial, sino efectivamente de universalidad de acceso. Sin duda, es un paso más para avanzar en descentralización efectiva, en acceso al desarrollo y a una comunicación para miles de chilenas y chilenos que, a pesar de los avances que muestra el resto del país, siguen viviendo en una brecha de conectividad estructural.
+
+Agradecemos los esfuerzos que ha hecho nuestro ministro, que se encuentra presente, y, por supuesto, también a la seremi respectiva de nuestra región.
+
+He dicho.
+
+El señor MIROSEVIC (Presidente accidental).-
+
+Finalmente, tiene la palabra la diputada Flor Weisse .
+
+La señora WEISSE (doña Flor).-
+
+Señor Presidente, este es un proyecto que, sin duda, es necesario y positivo, y busca hacerse cargo de un problema que se evidenció principalmente durante la pandemia, sobre todo en materia educacional. En efecto, durante esa época conocimos casos de personas que tenían que subir a los techos de sus casas y a los cerros para poder conectarse. En muchas localidades rurales de la provincia de Arauco ocurrió aquello, debido a la insuficiencia que tenemos en el servicio de conexión a internet.
+
+Permítame decirle, señor ministro, por intermedio del señor Presidente, que esta iniciativa me genera dudas. El proyecto se ve bien y es un avance en materia de desarrollo, porque se sustenta en los principios de universalidad, eficiencia, continuidad y no discriminación. No obstante, deseo hacer el punto, porque hoy en la provincia Arauco , Biobío , en Quilaco, en Contulmo, en Tirúa y en muchos lugares apartados, como Santa Bárbara , Alto Biobío , este servicio prácticamente no existe, porque se interrumpe constantemente. Lo mismo ocurre con la comunicación telefónica tradicional y con el acceso a los otros servicios públicos, como el agua potable y el suministro eléctrico, entre otros.
+
+Se ve muy bien y me parece positivo que se reconozca el acceso a internet como un servicio público de telecomunicaciones, pero el tema es cómo se implementa esto. Aproximadamente hay un 20 por ciento de la población que no tiene servicio o acceso a internet. En mi zona, en mi distrito, en la provincia Arauco , Biobío , comuna de Lota, ese porcentaje es mucho más alto.
+
+Este proyecto por supuesto que parece muy positivo, porque pareciera ser que a partir de la publicación de la futura ley habrá acceso de internet para todos, para todas y en todos los lugares, sean personas menores o mayores, en especial porque el acceso para los mayores se debe internalizar en este proyecto. Asimismo, si bien contribuirá en educación, no es menor el avance o la forma como debemos utilizar internet en telemedicina, en el emprendimiento y en el teletrabajo, que está siendo hoy muy utilizado y que ya es parte de nuestro sistema de producción y del mundo del trabajo.
+
+Esta herramienta es cada vez más necesaria, pero mi duda, ministro, por intermedio del señor Presidente, está precisamente en los plazos que se establecen para su implementación, porque se señala un plazo de seis meses para entregar este servicio donde hay infraestructura y un plazo de doce meses donde no la hay. Tengo dudas de que realmente se pueda cumplir, porque hay inversiones de por medio. Si bien el Estado tiene que ser el garante de generar este criterio, a través de los principios que ya enuncié, que deben ser los garantes de ello, hay un tema de recursos que no es menor.
+
+En ese sentido, como hemos visto que la eficiencia en la prestación de los servicios es insuficiente, con una cobertura mucho menor hasta ahora, no tengo la tranquilidad de que ese problema se vaya a resolver simplemente en un año. A mi juicio se debe abarcar un horizonte mucho mayor.
+
+Anuncio que voy a aprobar el proyecto, pero con esas dudas.
+
+He dicho.
+
+El señor MIROSEVIC (Presidente accidental).-
+
+Cerrado el debate.
+
+-Con posterioridad, la Sala se pronunció sobre este proyecto de ley en los siguientes términos:
+
+El señor MIROSEVIC (Presidente accidental).-
+
+Corresponde votar en general el proyecto de ley, iniciado en mensaje, para reconocer el acceso a internet como un servicio público de telecomunicaciones, con la salvedad de la norma que requiere quorum especial de aprobación.
+
+En votación.
+
+-Efectuada la votación en forma económica, por el sistema electrónico, dio el siguiente resultado: por la afirmativa, 117 votos; por la negativa, 0 votos. Hubo 6 abstenciones.
+
+El señor MIROSEVIC (Presidente accidental).-
+
+Aprobado.
+
+-Votaron por la afirmativa:
+
+Acevedo Sáez , María Candelaria ; Cornejo Lagos, Eduardo ; Marzán Pinto, Carolina ; Rey Martínez, Hugo ; Aedo Jeldres, Eric ; Cuello Peña y Lillo , Luis Alberto ; Matheson Villán, Christian ; Riquelme Aliaga, Marcela ; Ahumada Palma , Yovana ; De Rementería Venegas, Tomás ; Medina Vásquez, Karen ; Rojas Valderrama, Camila ; Araya Guerrero, Jaime ; Del Real Mihovilovic, Catalina ; Mellado Pino, Cosme ; Romero Sáez, Leonidas ; Arce Castro, Mónica ; Delgado Riquelme , Viviana ; Melo Contreras, Daniel ; Romero Talguia, Natalia ; Arroyo Muñoz, Roberto ; Donoso Castro, Felipe ; Mirosevic Verdugo, Vlado ; Rosas Barrientos, Patricio ; Barrera Moreno, Boris ; Durán Salinas, Eduardo ; Mix Jiménez, Claudia ; Sáez Quiroz, Jaime ; Becker Alvear , Miguel Ángel ; Fuenzalida Cobo, Juan ; Molina Milman, Helia ; Saffirio Espinoza, Jorge ; Bello Campos, María Francisca ; Gazmuri Vieira, Ana María ; Morales Alvarado, Javiera ; Sagardia Cabezas, Clara ; Beltrán Silva, Juan Carlos ; Giordano Salazar, Andrés ; Morales Maldonado, Carla ; Sánchez Ossa, Luis ; Benavente Vergara, Gustavo ; González Gatica, Félix ; Moreira Barros, Cristhian ; Santana Castillo, Juan ; Berger Fett, Bernardo ; González Olea, Marta ; Mulet Martínez, Jaime ; Santibáñez Novoa, Marisela ; Bernales Maldonado, Alejandro ; González Villarroel, Mauro ; Muñoz González, Francesca ; Sauerbaum Muñoz, Frank ; Bianchi Chelech, Carlos ; Guzmán Zepeda, Jorge ; Nuyado Ancapichún, Emilia ; Schneider Videla, Emilia ; Bobadilla Muñoz, Sergio ; Hirsch Goldschmidt, Tomás ; Ñanco Vásquez, Ericka ; Serrano Salazar, Daniela ; Bórquez Montecinos, Fernando ; Ibáñez Cotroneo, Diego ; Ojeda Rebolledo, Mauricio ; Soto Mardones, Raúl ; Bravo Castro, Ana María ; Ilabaca Cerda, Marcos ; Olivera De La Fuente, Erika ; Sulantay Olivares, Marco Antonio ; Bravo Salinas, Marta ; Jiles Moreno, Pamela ; Ossandón Irarrázabal , Ximena ; Tapia Ramos, Cristián ; Brito Hasbún , Jorge ; Jürgensen Rundshagen, Harry ; Oyarzo Figueroa , Rubén Darío ; Teao Drago, Hotuiti ; Bugueño Sotelo, Félix ; Kaiser Barents-Von Hohenhagen, Johannes ; Palma Pérez, Hernán ; Tello Rojas, Carolina ; Bulnes Núñez, Mercedes ; Labbé Martínez, Cristian ; Pérez Cartes, Marlene ; Trisotti Martínez, Renzo ; Camaño Cárdenas, Felipe ; Lagomarsino Guzmán, Tomás ; Pérez Olea, Joanna ; Ulloa Aguilera, Héctor ; Cariola Oliva, Karol ; Lavín León, Joaquín ; Pizarro Sierra, Lorena ; Undurraga Vicuña, Alberto ; Castillo Rojas, Nathalie ; Leal Bizama, Henry ; Placencia Cabello, Alejandra ; Veloso Ávila, Consuelo ; Castro Bascuñán, José Miguel ; Lee Flores, Enrique ; Pulgar Castillo, Francisco ; Venegas Salazar, Nelson ; Celis Montt, Andrés ; Lilayu Vivanco, Daniel ; Ramírez Diez, Guillermo ; Videla Castillo, Sebastián ; Cicardini Milla, Daniella ; Malla Valenzuela, Luis ; Ramírez Pascal, Matías ; Von Mühlenbrock Zamora, Gastón ; Cifuentes Lillo, Ricardo ; Manouchehri Lobos, Daniel ; Raphael Mora, Marcia ; Weisse Novoa, Flor ; Concha Smith, Sara ; Martínez Ramírez, Cristóbal ; Rathgeb Schifferli, Jorge ; Winter Etcheberry, Gonzalo ; Cordero Velásquez, María Luisa
+
+-Se abstuvieron:
+
+Araya Lerdo de Tejada, Cristián ; Irarrázaval Rossel, Juan ; Moreno Bascur, Benjamín ; Schubert Rubio, Stephan ; Barchiesi Chávez, Chiara ; Meza Pereira, José Carlos
+
+El señor MIROSEVIC (Presidente accidental).-
+
+Corresponde votar en general el inciso cuarto del artículo 24° C, contenido en el numeral 10) del artículo único del proyecto, que requiere para su aprobación el voto favorable de 78 diputadas y diputados en ejercicio, por tratarse de una disposición de rango orgánico constitucional.
+
+En votación.
+
+-Efectuada la votación en forma económica, por el sistema electrónico, dio el siguiente resultado: por la afirmativa, 111 votos; por la negativa, 0 votos. Hubo 12 abstenciones.
+
+El señor MIROSEVIC (Presidente accidental).-
+
+Aprobado.
+
+-Votaron por la afirmativa:
+
+Acevedo Sáez , María Candelaria ; Concha Smith, Sara ; Marzán Pinto, Carolina ; Riquelme Aliaga, Marcela ; Aedo Jeldres, Eric ; Cordero Velásquez , María Luisa ; Medina Vásquez, Karen ; Rojas Valderrama, Camila ; Ahumada Palma, Yovana ; Cornejo Lagos, Eduardo ; Mellado Pino, Cosme ; Romero Sáez, Leonidas ; Araya Guerrero, Jaime ; Cuello Peña y Lillo , Luis Alberto ; Melo Contreras, Daniel ; Romero Talguia, Natalia ; Arce Castro, Mónica ; De Rementería Venegas, Tomás ; Mirosevic Verdugo, Vlado ; Rosas Barrientos , Patricio ; Arroyo Muñoz, Roberto ; Del Real Mihovilovic, Catalina ; Mix Jiménez, Claudia ; Sáez Quiroz, Jaime ; Barrera Moreno, Boris ; Delgado Riquelme , Viviana ; Molina Milman, Helia ; Saffirio Espinoza, Jorge ; Becker Alvear , Miguel Ángel ; Donoso Castro, Felipe ; Morales Alvarado, Javiera ; Sagardia Cabezas, Clara ; Bello Campos, María Francisca ; Durán Salinas, Eduardo ; Morales Maldonado, Carla ; Santana Castillo, Juan ; Beltrán Silva, Juan Carlos ; Gazmuri Vieira, Ana María ; Moreira Barros, Cristhian ; Santibáñez Novoa, Marisela ; Benavente Vergara, Gustavo ; Giordano Salazar, Andrés ; Mulet Martínez, Jaime ; Sauerbaum Muñoz, Frank ; Berger Fett, Bernardo ; González Gatica, Félix ; Muñoz González, Francesca ; Schneider Videla, Emilia ; Bernales Maldonado, Alejandro ; González Olea, Marta ; Nuyado Ancapichún, Emilia ; Serrano Salazar, Daniela ; Bianchi Chelech, Carlos ; González Villarroel, Mauro ; Ñanco Vásquez, Ericka ; Soto Mardones, Raúl ; Bobadilla Muñoz, Sergio ; Guzmán Zepeda, Jorge ; Olivera De La Fuente, Erika ; Sulantay Olivares, Marco Antonio ; Bórquez Montecinos, Fernando ; Hirsch Goldschmidt, Tomás ; Ossandón Irarrázabal , Ximena ; Tapia Ramos, Cristián ; Bravo Castro , Ana María ; Ibáñez Cotroneo, Diego ; Oyarzo Figueroa , Rubén Darío ; Teao Drago, Hotuiti ; Bravo Salinas, Marta ; Ilabaca Cerda, Marcos ; Palma Pérez, Hernán ; Tello Rojas, Carolina ; Brito Hasbún, Jorge ; Jiles Moreno, Pamela ; Pérez Cartes, Marlene ; Trisotti Martínez, Renzo ; Bugueño Sotelo, Félix ; Labbé Martínez, Cristian ; Pérez Olea , Joanna ; Ulloa Aguilera, Héctor ; Bulnes Núñez, Mercedes ; Lagomarsino Guzmán, Tomás ; Pizarro Sierra, Lorena ; Undurraga Vicuña, Alberto ; Camaño Cárdenas, Felipe ; Lavín León, Joaquín ; Placencia Cabello, Alejandra ; Veloso Ávila, Consuelo ; Cariola Oliva, Karol ; Leal Bizama, Henry ; Pulgar Castillo, Francisco ; Venegas Salazar, Nelson ; Castillo Rojas, Nathalie ; Lee Flores, Enrique ; Ramírez Diez, Guillermo ; Videla Castillo, Sebastián ; Castro Bascuñán, José Miguel ; Lilayu Vivanco, Daniel ; Ramírez Pascal, Matías ; Von Mühlenbrock Zamora, Gastón ; Celis Montt, Andrés ; Malla Valenzuela, Luis ; Raphael Mora, Marcia ; Weisse Novoa, Flor ; Cicardini Milla, Daniella ; Manouchehri Lobos, Daniel ; Rathgeb Schifferli, Jorge ; Winter Etcheberry, Gonzalo ; Cifuentes Lillo, Ricardo ; Martínez Ramírez, Cristóbal ; Rey Martínez, Hugo
+
+-Se abstuvieron:
+
+Araya Lerdo de Tejada, Cristián ; Irarrázaval Rossel, Juan ; Matheson Villán, Christian ; Ojeda Rebolledo, Mauricio ; Barchiesi Chávez, Chiara ; Jürgensen Rundshagen, Harry ; Meza Pereira , José Carlos ; Sánchez Ossa, Luis ; Fuenzalida Cobo, Juan ; Kaiser Barents-Von Hohenhagen, Johannes ; Moreno Bascur, Benjamín ; Schubert Rubio, Stephan
+
+El señor MIROSEVIC (Presidente accidental).-
+
+Por no haber sido objeto de indicaciones, el proyecto queda además aprobado en particular, con la misma votación, dejándose constancia de haberse alcanzado el quorum constitucional requerido.
+
+Despachado el proyecto a tercer trámite constitucional.

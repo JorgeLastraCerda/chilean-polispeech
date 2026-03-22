@@ -1,0 +1,30 @@
+{
+  "law_meta": {
+    "law_id": "8429",
+    "law_number": "21.773",
+    "law_title": "Modifica la Carta Fundamental en materia de derecho de sufragio de personas extranjeras",
+    "history_url": "https://www.bcn.cl/historiadelaley/nc/historia-de-la-ley/8429/"
+  },
+  "entry": {
+    "stage_num": 2,
+    "stage_text": "Segundo Trámite Constitucional: Cámara de Diputados",
+    "section_key": "2-2",
+    "label": "Discusión en Sala",
+    "event_date": "2025-09-29"
+  },
+  "item_attrs": {
+    "class": [
+      "item"
+    ],
+    "fecha": "2025-09-29",
+    "partedocumento": "",
+    "refersto": "http://datos.bcn.cl/ontologies/bcn-bills#DiscusionGeneral",
+    "tipodocumento": "http://datos.bcn.cl/ontologies/bcn-resources#Oficio",
+    "tramitacion": "http://datos.bcn.cl/recurso/cl/proyecto-de-ley/17823-07/tramitacion/7",
+    "uridocumento": "http://datos.bcn.cl/recurso/cl/documento/708384"
+  },
+  "paragraph_count": 5,
+  "char_count": 844,
+  "is_preliminary": false,
+  "transcript_text": "Discusión General. Fecha 29 de septiembre, 2025. Oficio en Sesión 73. Legislatura 373.\n\nPROYECTO DE REFORMA CONSTITUCIONAL, INICIADO EN MENSAJE, QUE MODIFICA LA CARTA FUNDAMENTAL EN MATERIA DE DERECHO AL SUFRAGIO DE PERSONAS EXTRANJERAS. SEGUNDO TRÁMITE CONSTITUCIONAL. Informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. Boletín N° 17823-07.\n\nIntervinieron los siguientes señores y señoras: Lorena Fries (informante de la Comisión de Constitución, Legislación, Justicia y Reglamento), Félix González, Felipe Donoso, Luis Malla, Cristóbal Urruticoechea, Juan Santana, Andrés Longton, Jaime Mulet, Luis Sánchez, Jorge Guzmán, Cristián Tapia, Diego Ibáñez, Roberto Arroyo, Joanna Pérez, Yovana Ahumada, Leonidas Romero, Cristián Araya, Raúl Leiva, Johannes Kaiser y Leonardo Soto.\n\nAprobado.\n\nDespachado el proyecto a ley."
+}
